@@ -16,108 +16,107 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="yes" msgid="1999566976857398962">"Да"</string>
+    <string name="yes" msgid="1999566976857398962">"пизДа"</string>
     <string name="no" msgid="5541738710521607130">"Нет"</string>
-    <string name="create" msgid="986997212165228751">"Создать"</string>
-    <string name="allow" msgid="3763244945363657722">"Разрешить"</string>
-    <string name="deny" msgid="7326117222944479942">"Отклонить"</string>
-    <string name="confirmation_turn_on" msgid="2979094011928347665">"Да"</string>
-    <string name="device_info_default" msgid="1406619232867343310">"Неизвестно"</string>
+    <string name="create" msgid="986997212165228751">"Отсосать"</string>
+    <string name="allow" msgid="3763244945363657722">"Заебать"</string>
+    <string name="deny" msgid="7326117222944479942">"Выебать"</string>
+    <string name="confirmation_turn_on" msgid="2979094011928347665">"пизДа"</string>
+    <string name="device_info_default" msgid="1406619232867343310">"Неизвестно сколько у вас хуёв в жопе"</string>
     <plurals name="show_dev_countdown" formatted="false" msgid="1646187747875476269">
-      <item quantity="one">Вы почти у цели. Остался <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шаг.</item>
-      <item quantity="few">Вы почти у цели. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шага.</item>
-      <item quantity="many">Вы почти у цели. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шагов.</item>
-      <item quantity="other">Вы почти у цели. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шага.</item>
+      <item quantity="one">Вы почти на хуе. Остался <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> пидор </item>
+      <item quantity="few">Вы почти на хуе. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шлюха.</item>
+      <item quantity="many">Вы почти на хуе. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> гандонов.</item>
+      <item quantity="other">Вы почти на хуе. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> ора.</item>
     </plurals>
-    <string name="show_dev_on" msgid="2840850085134853754">"Вы стали разработчиком!"</string>
-    <string name="show_dev_already" msgid="7041756429707644630">"Не нужно, вы уже разработчик."</string>
-    <string name="dev_settings_disabled_warning" msgid="6971867026249671244">"Сначала включите параметры для разработчиков."</string>
-    <string name="header_category_wireless_networks" msgid="303445626075235229">"Беспроводные сети"</string>
-    <string name="header_category_system" msgid="1665516346845259058">"Система"</string>
-    <string name="radioInfo_service_in" msgid="9088637745836646271">"В зоне обслуживания"</string>
-    <string name="radioInfo_service_out" msgid="1868347333892403287">"Вне зоны обслуживания"</string>
-    <string name="radioInfo_service_emergency" msgid="6838935881091760942">"Только экстренные вызовы"</string>
-    <string name="radioInfo_service_off" msgid="6184928420860868571">"Сеть отключена"</string>
-    <string name="radioInfo_roaming_in" msgid="8892550453644088692">"Роуминг"</string>
-    <string name="radioInfo_roaming_not" msgid="3137594549464975054">"Роуминг отключен"</string>
-    <string name="radioInfo_data_disconnected" msgid="362604130117666924">"Нет подключения"</string>
-    <string name="radioInfo_data_connecting" msgid="7280819598028917888">"Подключение"</string>
-    <string name="radioInfo_data_connected" msgid="8816467971633020141">"Подключено"</string>
+    <string name="show_dev_on" msgid="2840850085134853754">"Вы стали хуесосом!"</string>
+    <string name="show_dev_already" msgid="7041756429707644630">"Не нужно, вы уже хуесос."</string>
+    <string name="dev_settings_disabled_warning" msgid="6971867026249671244">"Сначала включите гей порнухи для проституток."</string>
+    <string name="header_category_wireless_networks" msgid="303445626075235229">"Беспроводные хуи"</string>
+    <string name="header_category_system" msgid="1665516346845259058">"Система секса мальчиков"</string>
+    <string name="radioInfo_service_in" msgid="9088637745836646271">"В зоне ёбли в жопу"</string>
+    <string name="radioInfo_service_out" msgid="1868347333892403287">"Вне зоны ёбли в жопу"</string>
+    <string name="radioInfo_service_emergency" msgid="6838935881091760942">"Только гей вызовы"</string>
+    <string name="radioInfo_service_off" msgid="6184928420860868571">"Сеть шлюх отключена"</string>
+    <string name="radioInfo_roaming_in" msgid="8892550453644088692">"Роуминг зиг хаиль"</string>
+    <string name="radioInfo_roaming_not" msgid="3137594549464975054">"Роуминг гудбай"</string>
+    <string name="radioInfo_data_disconnected" msgid="362604130117666924">"Нет подключения беспроводной пизды"</string>
+    <string name="radioInfo_data_connecting" msgid="7280819598028917888">"Подключение беспроводной пизды"</string>
+    <string name="radioInfo_data_connected" msgid="8816467971633020141">"Подключено к беспроводной пизде"</string>
     <string name="radioInfo_data_suspended" msgid="2001254415431299603">"Приостановлено"</string>
-    <string name="radioInfo_unknown" msgid="2892562356748600367">"Неизвестно"</string>
-    <string name="sdcard_unmount" product="nosdcard" msgid="1816306320988638382">"Отключить USB-накопитель"</string>
-    <string name="sdcard_unmount" product="default" msgid="8078570285871053815">"Извлечь SD-карту"</string>
-    <string name="sdcard_format" product="nosdcard" msgid="3248760426252305366">"Очистить USB-накопитель"</string>
-    <string name="sdcard_format" product="default" msgid="3676635435136326182">"Очистить SD-карту"</string>
-    <string name="preview_pager_content_description" msgid="3762247188224576303">"Просмотр"</string>
-    <string name="preview_page_indicator_content_description" msgid="2790254666634885865">"Предпросмотр, страница <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> из <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
-    <string name="font_size_summary" msgid="1296835853522566260">"Сделайте текст на экране мельче или крупнее."</string>
-    <string name="font_size_make_smaller_desc" msgid="4978038055549590140">"Уменьшить"</string>
-    <string name="font_size_make_larger_desc" msgid="5583046033381722247">"Увеличить"</string>
-    <string name="font_size_preview_text_headline" msgid="1173103737980511652">"Пример текста"</string>
-    <string name="font_size_preview_text_title" msgid="6363561029914452382">"Удивительный волшебник из страны Оз"</string>
-    <string name="font_size_preview_text_subtitle" msgid="5806349524325544614">"Глава 11. Изумрудный Город страны Оз"</string>
-    <string name="font_size_preview_text_body" msgid="3323732544011097199">"Даже надев зеленые очки, Дороти и ее друзья были ошеломлены сверканием этого удивительного города. По улицам стояли прекрасные дома из зеленого мрамора, украшенные блестящими изумрудами. Путники шли по тротуару из того же зеленого мрамора, а щели между плитами были заполнены изумрудами, сиявшими под лучами солнца. Окна домов были из зеленого стекла. Даже небо над Изумрудным Городом было зеленое, и зеленое солнце посылало жаркие зеленые лучи.\n\nВокруг сновали мужчины, женщины, дети, и все они носили зеленую одежду, и кожа у них была зеленоватого оттенка. Они с удивлением смотрели на Дороти и ее странных спутников. Завидев большого Льва, дети прятались за спины родителей, и никто не осмеливался задавать вопросы чужестранцам. В магазинах продавались товары зеленого цвета – зеленые конфеты и зеленая жареная кукуруза, зеленые башмаки и шляпы, зеленые платья и сюртуки всех фасонов и размеров. На одном из лотков продавец торговал зеленым лимонадом, и обступившие его дети расплачивались зелеными монетками.\n\nНа улицах Изумрудного Города не было ни лошадей, ни других животных. Мужчины возили поклажу в маленьких тачках на колесиках. У жителей Изумрудного Города был веселый и довольный вид."</string>
+    <string name="radioInfo_unknown" msgid="2892562356748600367">"ФСБ уже известна ваша сексуальная ориентация"</string>
+    <string name="sdcard_unmount" product="nosdcard" msgid="1816306320988638382">"Отключить USB-вибратор"</string>
+    <string name="sdcard_unmount" product="default" msgid="8078570285871053815">"Извлечь пизду"</string>
+    <string name="sdcard_format" product="nosdcard" msgid="3248760426252305366">"Очистить USB-вибрвтор"</string>
+    <string name="sdcard_format" product="default" msgid="3676635435136326182">"Очистить пизду"</string>
+    <string name="preview_pager_content_description" msgid="3762247188224576303">"Просмотр гей порно"</string>
+    <string name="preview_page_indicator_content_description" msgid="2790254666634885865">"Предпросмотр вебкама, страница пидораса <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> из <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
+    <string name="font_size_summary" msgid="1296835853522566260">"Сделайте гейпорно на экране громче и крупнее."</string>
+    <string name="font_size_make_smaller_desc" msgid="4978038055549590140">"Уменьшить пизду"</string>
+    <string name="font_size_make_larger_desc" msgid="5583046033381722247">"Увеличить количество хуёв в жопе"</string>
+    <string name="font_size_preview_text_headline" msgid="1173103737980511652">"Пример вашей пизды"</string>
+    <string name="font_size_preview_text_title" msgid="6363561029914452382">"Удивительный ебанат из страны Ебанатов"</string>
+    <string name="font_size_preview_text_subtitle" msgid="5806349524325544614">"Глава 11. Пидорский Город страны Ебанатов"</string>
+    <string name="font_size_preview_text_body" msgid="3323732544011097199">"Даже надев зеленые очки, Ебанат и его друзья были охуевшими пидорами этой удивительной жопы мира. По улицам стояли прекрасные хуи из зеленого говна, украшенные блестящими пидорасами. Ебанаты шли по презервативам из того же зеленого говна, а щели между презиками были заполнены пёздами, кончавшими после секса. Окна домов были из ЛГБТ флагов. Даже небо над Ебанутым Городом было пидорское, и зеленая блевотина посылала жаркие зеленые высеры.\n\nВокруг ебали мужчины с мужчинами, женщины с женщинами, дети с детьми, и все они орали от удовольствия, и кожа у них была коричневого оттенка. Они с удивлением смотрели на Поехавшую и ее странных ебанатов. Завидев большую Жопу, дети прятались за жопы родителей, и никто не осмеливался ебаться с чужестранцами. В магазинах продавались ебанаты зеленого цвета – зеленые гандоны и зеленая параша, зеленые хуи и анальные пробки, зеленые жопы и проститутки всех фасонов и размеров. На одном из лотков продавец торговал зеленым пидором, и обступившие его дети расплачивались анальным сексом.\n\nНа улицах Ебанутого Города не было нихуя. Мужчины ебались в маленьких тачках на колесиках. У жителей Ебанутого Города был хуёвый и недовольный вид."</string>
     <string name="font_size_save" msgid="206892409190870726">"ОК"</string>
-    <string name="sdcard_setting" product="nosdcard" msgid="6071836464978826249">"USB-накопитель"</string>
-    <string name="sdcard_setting" product="default" msgid="3713462184783824923">"SD-карта"</string>
+    <string name="sdcard_setting" product="nosdcard" msgid="6071836464978826249">"USB-вмбратор"</string>
+    <string name="sdcard_setting" product="default" msgid="3713462184783824923">"SD-шлюха"</string>
     <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
-    <string name="bluetooth_is_discoverable" msgid="4798961627677790935">"Виден другим Bluetooth-устройствам: <xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>"</string>
-    <string name="bluetooth_is_discoverable_always" msgid="8122823110652921674">"Отображать для ближайших устройств Bluetooth"</string>
-    <string name="bluetooth_not_visible_to_other_devices" msgid="6181960579190879601">"Не виден другим устройствам"</string>
-    <string name="bluetooth_only_visible_to_paired_devices" msgid="3574936359739213455">"Доступно только для подключенных устройств"</string>
-    <string name="bluetooth_visibility_timeout" msgid="7611781967900196353">"Тайм-аут видимости"</string>
-    <string name="bluetooth_lock_voice_dialing" msgid="7405038248936935186">"Заблокировать голосовой набор"</string>
-    <string name="bluetooth_lock_voice_dialing_summary" msgid="4959591522483403402">"Предотвратить использование телефона Bluetooth, когда экран заблокирован"</string>
-    <string name="bluetooth_devices" msgid="1063177983261608277">"Устройства Bluetooth"</string>
-    <string name="bluetooth_device_name" msgid="1294669733490268384">"Имя устройства"</string>
-    <string name="bluetooth_device_details" msgid="630702184344217832">"Настройки устройства"</string>
-    <string name="bluetooth_profile_details" msgid="1269419918127093325">"Настройки профиля"</string>
-    <string name="bluetooth_name_not_set" msgid="4654357917928126208">"Без настройки имени, использовать имя аккаунта"</string>
-    <string name="bluetooth_scan_for_devices" msgid="8143654526358934069">"Поиск устройств"</string>
-    <string name="bluetooth_rename_device" msgid="4219655243836021443">"Переименовать устройство"</string>
-    <string name="bluetooth_rename_button" msgid="9162500408570289545">"Переименовать"</string>
-    <string name="bluetooth_disconnect_title" msgid="4581951246357823044">"Отключить устройство?"</string>
-    <string name="bluetooth_disconnect_all_profiles" product="default" msgid="1934297101665686854">"Будет прервано соединение с устройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
-    <string name="bluetooth_disconnect_all_profiles" product="tablet" msgid="336622948210457991">"Будет прервано соединение с устройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
-    <string name="bluetooth_disconnect_all_profiles" product="device" msgid="6944790936166852428">"Будет прервано соединение с устройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
-    <string name="bluetooth_disconnect_dialog_ok" msgid="4173740094381092185">"Отключить"</string>
-    <string name="bluetooth_empty_list_user_restricted" msgid="909734990821975673">"У вас нет разрешения на смену настроек Bluetooth."</string>
-    <string name="bluetooth_pairing_pref_title" msgid="3497193027590444598">"Добавить устройство"</string>
-    <string name="keywords_add_bt_device" msgid="4533191164203174011">"Bluetooth"</string>
-    <string name="bluetooth_is_visible_message" msgid="3811631869768157387">"Устройства поблизости могут обнаружить <xliff:g id="DEVICE_NAME">%1$s</xliff:g>, пока открыты настройки Bluetooth."</string>
-    <string name="bluetooth_footer_mac_message" product="default" msgid="4782330594323261630">"Bluetooth-адрес телефона: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>."</string>
-    <string name="bluetooth_footer_mac_message" product="tablet" msgid="1257226691967432025">"Адрес Bluetooth для планшета: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="bluetooth_footer_mac_message" product="device" msgid="2863536947810007600">"Адрес Bluetooth для устройства: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
-    <string name="bluetooth_is_disconnect_question" msgid="777406775955421784">"Отключить <xliff:g id="DEVICE_NAME">%1$s</xliff:g>?"</string>
-    <string name="bluetooth_broadcasting" msgid="6379176741690311973">"Передача данных"</string>
-    <string name="bluetooth_device" msgid="2217973503732544291">"Bluetooth-устройство без названия"</string>
-    <string name="progress_scanning" msgid="2564746192843011826">"Поиск"</string>
-    <string name="bluetooth_no_devices_found" msgid="7704539337219953182">"Устройства Bluetooth не найдены."</string>
-    <string name="bluetooth_notif_ticker" msgid="209515545257862858">"Запрос подключения Bluetooth"</string>
-    <string name="bluetooth_notif_title" msgid="1196532269131348647">"Запрос подключения"</string>
-    <string name="bluetooth_notif_message" msgid="5584717784198086653">"Нажмите, чтобы установить соединение с устройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
-    <string name="bluetooth_show_received_files" msgid="685424727760622632">"Полученные файлы"</string>
-    <string name="bluetooth_show_files_received_via_bluetooth" msgid="7097860463458492953">"Файлы, полученные по Bluetooth"</string>
-    <string name="bluetooth_devices_card_off_title" msgid="1320149821945129127">"Модуль Bluetooth отключен"</string>
-    <string name="bluetooth_devices_card_off_summary" msgid="2276527382891105858">"Нажмите, чтобы включить"</string>
-    <string name="device_picker" msgid="2427027896389445414">"Выбрать устройство Bluetooth"</string>
-    <string name="bluetooth_ask_enablement" msgid="1529030199895339199">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется включить Bluetooth"</string>
-    <string name="bluetooth_ask_disablement" msgid="1879788777942714761">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется отключить Bluetooth"</string>
-    <string name="bluetooth_ask_enablement_no_name" msgid="5091401961637405417">"Приложению требуется включить Bluetooth"</string>
-    <string name="bluetooth_ask_disablement_no_name" msgid="382299750909188822">"Приложению требуется отключить Bluetooth"</string>
-    <string name="bluetooth_ask_discovery" product="tablet" msgid="1273405567801929487">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется, чтобы ваш планшет был доступен для поиска через Bluetooth на других устройствах в течение <xliff:g id="TIMEOUT">%2$d</xliff:g> сек."</string>
-    <string name="bluetooth_ask_discovery" product="default" msgid="7013223328571883275">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется, чтобы ваш телефон был доступен для поиска через Bluetooth на других устройствах в течение <xliff:g id="TIMEOUT">%2$d</xliff:g> сек."</string>
-    <string name="bluetooth_ask_discovery_no_name" product="tablet" msgid="3266007454914144057">"Приложению требуется, чтобы ваш планшет был доступен для поиска через Bluetooth на других устройствах в течение <xliff:g id="TIMEOUT">%1$d</xliff:g> сек."</string>
-    <string name="bluetooth_ask_discovery_no_name" product="default" msgid="7989444746980501116">"Приложению требуется, чтобы ваш телефон был доступен для поиска через Bluetooth на других устройствах в течение <xliff:g id="TIMEOUT">%1$d</xliff:g> сек."</string>
-    <string name="bluetooth_ask_lasting_discovery" product="tablet" msgid="6482084870735107773">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется сделать ваш планшет доступным для поиска через Bluetooth на других устройствах. Позже эти настройки можно будет изменить."</string>
-    <string name="bluetooth_ask_lasting_discovery" product="default" msgid="2352494279465502950">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется сделать ваш телефон доступным для поиска через Bluetooth на других устройствах. Позже эти настройки можно будет изменить."</string>
-    <string name="bluetooth_ask_lasting_discovery_no_name" product="tablet" msgid="2732992604509910896">"Приложению требуется сделать ваш планшет доступным для поиска через Bluetooth на других устройствах. Позже эти настройки можно будет изменить."</string>
-    <string name="bluetooth_ask_lasting_discovery_no_name" product="default" msgid="356982103612920264">"Приложению требуется сделать ваш телефон доступным для поиска через Bluetooth на других устройствах. Позже эти настройки можно будет изменить."</string>
-    <string name="bluetooth_ask_enablement_and_discovery" product="tablet" msgid="6103655179509599427">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется включить Bluetooth и сделать ваш планшет доступным для поиска на других устройствах в течение <xliff:g id="TIMEOUT">%2$d</xliff:g> сек."</string>
-    <string name="bluetooth_ask_enablement_and_discovery" product="default" msgid="934276632311449337">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется включить Bluetooth и сделать ваш телефон доступным для поиска на других устройствах в течение <xliff:g id="TIMEOUT">%2$d</xliff:g> сек."</string>
-    <string name="bluetooth_ask_enablement_and_discovery_no_name" product="tablet" msgid="1284048348024444485">"Приложению требуется включить Bluetooth и сделать ваш планшет доступным для поиска на других устройствах в течение <xliff:g id="TIMEOUT">%1$d</xliff:g> сек."</string>
-    <string name="bluetooth_ask_enablement_and_discovery_no_name" product="default" msgid="2661614145022629454">"Приложению требуется включить Bluetooth и сделать ваш телефон доступным для поиска на других устройствах в течение <xliff:g id="TIMEOUT">%1$d</xliff:g> сек."</string>
+    <string name="bluetooth_is_discoverable" msgid="4798961627677790935">"Виден другим гей-устройствам: <xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>"</string>
+    <string name="bluetooth_is_discoverable_always" msgid="8122823110652921674">"Отображать для ближайших проституток проекта Fluid"</string>
+    <string name="bluetooth_not_visible_to_other_devices" msgid="6181960579190879601">"Не виден другими гандонам"</string>
+    <string name="bluetooth_only_visible_to_paired_devices" msgid="3574936359739213455">"Доступно только для подключенных гандонов"</string>
+    <string name="bluetooth_visibility_timeout" msgid="7611781967900196353">"Тайм-аут ёбли в жопу"</string>
+    <string name="bluetooth_lock_voice_dialing" msgid="7405038248936935186">"Заблокировать вашу пизду"</string>
+    <string name="bluetooth_lock_voice_dialing_summary" msgid="4959591522483403402">"Воспроизводить гей порно, когда экран заблокирован"</string>
+    <string name="bluetooth_devices" msgid="1063177983261608277">"Устройства шлюх"</string>
+    <string name="bluetooth_device_name" msgid="1294669733490268384">"Имя подсосов"</string>
+    <string name="bluetooth_device_details" msgid="630702184344217832">"Настройки шлюх"</string>
+    <string name="bluetooth_profile_details" msgid="1269419918127093325">"Настройки профиля пидоров"</string>
+    <string name="bluetooth_name_not_set" msgid="4654357917928126208">"Без настройки имени гондураса, использовать имя ануса"</string>
+    <string name="bluetooth_scan_for_devices" msgid="8143654526358934069">"Поиск пидоров"</string>
+    <string name="bluetooth_rename_device" msgid="4219655243836021443">"Переименовать паспорт"</string>
+    <string name="bluetooth_rename_button" msgid="9162500408570289545">"Перетрахаться"</string>
+    <string name="bluetooth_disconnect_title" msgid="4581951246357823044">"Вибратор не выключить,нахуй иди."</string>
+    <string name="bluetooth_disconnect_all_profiles" product="default" msgid="1934297101665686854">"Будет прерван секс с мужчиной \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
+    <string name="bluetooth_disconnect_all_profiles" product="tablet" msgid="336622948210457991">"Будет прерван секс с проституткой. \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
+    <string name="bluetooth_disconnect_all_profiles" product="device" msgid="6944790936166852428">"Будет прерван секс с влагалищем \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
+    <string name="bluetooth_disconnect_dialog_ok" msgid="4173740094381092185">"Отключить пизду"</string>
+    <string name="bluetooth_empty_list_user_restricted" msgid="909734990821975673">"ПОШЁЛ НАХУЙ."</string>
+    <string name="bluetooth_pairing_pref_title" msgid="3497193027590444598">"Добавить ебало"</string>
+    <string name="keywords_add_bt_device" msgid="4533191164203174011">"АНГЛИЙСКИЙ БЛЯТЬ ПОСТАВЬ ЕБАНАТ"</string>
+    <string name="bluetooth_is_visible_message" msgid="3811631869768157387">"Устройства поблизости могут обнаружить ваш интим <xliff:g id="DEVICE_NAME">%1$s</xliff:g>, пока открыты настройки Bluetooth."</string>
+    <string name="bluetooth_footer_mac_message" product="default" msgid="4782330594323261630">"Адрес вашей пизды: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>."</string>
+    <string name="bluetooth_footer_mac_message" product="tablet" msgid="1257226691967432025">"ИДИ НАХУЙ: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
+    <string name="bluetooth_footer_mac_message" product="device" msgid="2863536947810007600">"го ебаца: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
+    <string name="bluetooth_is_disconnect_question" msgid="777406775955421784">"хочу сосать <xliff:g id="DEVICE_NAME">%1$s</xliff:g>?"</string>
+    <string name="bluetooth_broadcasting" msgid="6379176741690311973">"ахахахха"</string>
+    <string name="bluetooth_device" msgid="2217973503732544291">"трах-трах-трах"</string>
+    <string name="progress_scanning" msgid="2564746192843011826">"Поиск очка"</string>
+    <string name="bluetooth_no_devices_found" msgid="7704539337219953182">"хуи не найдены."</string>
+    <string name="bluetooth_notif_ticker" msgid="209515545257862858">"Запрос подключения вибратора"</string>
+    <string name="bluetooth_notif_title" msgid="1196532269131348647">"Запрос подключения хуя"</string>
+    <string name="bluetooth_notif_message" msgid="5584717784198086653">"Нажмите, чтобы установить соединение с пидорасом \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
+    <string name="bluetooth_show_received_files" msgid="685424727760622632">"Полученное гей цп"</string>
+    <string name="bluetooth_show_files_received_via_bluetooth" msgid="7097860463458492953">"Файлы, полученные похую"</string>
+    <string name="bluetooth_devices_card_off_title" msgid="1320149821945129127">"хуй уменьшается"</string>
+    <string name="bluetooth_devices_card_off_summary" msgid="2276527382891105858">"Нажмите, чтобы увеличить"</string>
+    <string name="device_picker" msgid="2427027896389445414">"Выбрать время сноса этого говна"</string>
+    <string name="bluetooth_ask_enablement" msgid="1529030199895339199">"Пиздец \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется включить Bluetooth"</string>
+    <string name="bluetooth_ask_disablement" msgid="1879788777942714761">"Индусы \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется отключить Bluetooth"</string>
+    <string name="bluetooth_ask_enablement_no_name" msgid="5091401961637405417">"Приложению требуется выебать вас в жопу"</string>
+    <string name="bluetooth_ask_disablement_no_name" msgid="382299750909188822">"Приложению требуется, чтобы вы дрочили"</string>
+    <string name="bluetooth_ask_discovery" product="tablet" msgid="1273405567801929487">"АААААА БЛЯТЬ \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется, чтобы ваш планшет был доступен для поиска через Bluetooth на других устройствах в течение <xliff:g id="TIMEOUT">%2$d</xliff:g> сек."</string>
+    <string name="bluetooth_ask_discovery" product="default" msgid="7013223328571883275">" С КАКОЙ СТАТИ АААА \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется, чтобы ваш телефон был доступен для поиска через Bluetooth на других устройствах в течение <xliff:g id="TIMEOUT">%2$d</xliff:g> сек."</string>
+    <string name="bluetooth_ask_discovery_no_name" product="tablet" msgid="3266007454914144057">"Приложению требуется, чтобы ваш планшет был доступен для слива данных в ФСБ и Пентагон в течение <xliff:g id="TIMEOUT">%1$d</xliff:g> сек."</string>
+    <string name="bluetooth_ask_discovery_no_name" product="default" msgid="7989444746980501116">"Приложению требуется, чтобы ваш телефон был доступен для управления вами в течение <xliff:g id="TIMEOUT">%1$d</xliff:g> сек."</string>
+    <string name="bluetooth_ask_lasting_discovery" product="tablet" msgid="6482084870735107773">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" пиздуй отсюда ."</string>
+    <string name="bluetooth_ask_lasting_discovery" product="default" msgid="2352494279465502950">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" ты пидор"</string>
+    <string name="bluetooth_ask_lasting_discovery_no_name" product="default" msgid="356982103612920264">"хуй."</string>
+    <string name="bluetooth_ask_enablement_and_discovery" product="tablet" msgid="6103655179509599427">"сырный анус тор \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" эочу oneui <xliff:g id="TIMEOUT">%2$d</xliff:g> сек."</string>
+    <string name="bluetooth_ask_enablement_and_discovery" product="default" msgid="934276632311449337">"ево х хуита \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" хавок хуита <xliff:g id="TIMEOUT">%2$d</xliff:g> сек."</string>
+    <string name="bluetooth_ask_enablement_and_discovery_no_name" product="tablet" msgid="1284048348024444485">"Приложению требуется вас трахнуть <xliff:g id="TIMEOUT">%1$d</xliff:g> сек."</string>
+    <string name="bluetooth_ask_enablement_and_discovery_no_name" product="default" msgid="2661614145022629454">"Приложению требуется вас трахнуть <xliff:g id="TIMEOUT">%1$d</xliff:g> сек."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet" msgid="8588317955400593623">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется включить Bluetooth и сделать ваш планшет доступным для поиска на других устройствах. Позже эти настройки можно будет изменить."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery" product="default" msgid="4047444317445386579">"Приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" требуется включить Bluetooth и сделать ваш телефон доступным для поиска на других устройствах. Позже эти настройки можно будет изменить."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name" product="tablet" msgid="4922952478824372605">"Приложению требуется включить Bluetooth и сделать ваш планшет доступным для поиска на других устройствах. Позже эти настройки можно будет изменить."</string>
@@ -225,8 +224,8 @@
     <string name="action_drag_label_remove" msgid="1034900377796780568">"Удалить язык"</string>
     <string name="activity_picker_label" msgid="351250401590691126">"Выбор действия"</string>
     <string name="display_label" msgid="3056320781191343221">"Экран"</string>
-    <string name="sd_card_settings_label" product="nosdcard" msgid="1850505156136467106">"USB-накопитель"</string>
-    <string name="sd_card_settings_label" product="default" msgid="8715502912796241588">"SD-карта"</string>
+    <string name="sd_card_settings_label" product="nosdcard" msgid="1850505156136467106">"USB-вибоатор"</string>
+    <string name="sd_card_settings_label" product="default" msgid="8715502912796241588">"SD-хуйня"</string>
     <string name="proxy_settings_label" msgid="6300573815025557843">"Настройки прокси-сервера"</string>
     <string name="cancel" msgid="5780102414089664898">"Отмена"</string>
     <string name="okay" msgid="4827099303045669054">"ОК"</string>
@@ -405,7 +404,7 @@
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" msgid="8957789840251747092">"Разблокируйте телефон и подтверждайте покупки, используя отпечатки пальцев.\n\nВнимание! Для разблокировки этого устройства сканер отпечатков использовать нельзя. За подробной информацией обратитесь к администратору."</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_setup" msgid="5979556434735281585">"Разблокируйте телефон и подтверждайте покупки, используя отпечатки пальцев.\n\nПомните, что защита с помощью отпечатков менее надежна, чем графический ключ или PIN-код."</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel" msgid="6086532316718920562">"Отмена"</string>
-    <string name="security_settings_fingerprint_enroll_introduction_continue" msgid="5683573189775460816">"Продолжить"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_continue" msgid="5683573189775460816">Тебя ебут в жопу"</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup" msgid="370010932190960403">"Пропустить"</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup" msgid="7155412679784724630">"Далее"</string>
     <string name="setup_fingerprint_enroll_skip_title" msgid="2473807887676247264">"Не настраивать отпечатки?"</string>
@@ -552,7 +551,7 @@
     <string name="unlock_set_unlock_mode_none" msgid="5596049938457028214">"Провести по экрану"</string>
     <string name="unlock_set_unlock_mode_pattern" msgid="1926480143883094896">"Графический ключ"</string>
     <string name="unlock_set_unlock_mode_pin" msgid="9028659554829888373">"PIN-код"</string>
-    <string name="unlock_set_unlock_mode_password" msgid="8810609692771987513">"Пароль"</string>
+    <string name="unlock_set_unlock_mode_password" msgid="8810609692771987513">"ебанутыф"</string>
     <string name="unlock_setup_wizard_fingerprint_details" msgid="5974580769186206478">"Включив блокировку экрана, выберите \"Настройки &gt; Безопасность\", чтобы отсканировать и сохранить отпечаток пальца."</string>
     <string name="unlock_disable_lock_title" msgid="2564279819907932759">"Отключить блокировку экрана"</string>
     <string name="unlock_disable_frp_warning_title" msgid="1520689401825045809">"Отключить защиту устройства?"</string>
@@ -918,7 +917,7 @@
     <string name="wifi_eap_domain" msgid="8304301470752333203">"Домен"</string>
     <string name="wifi_eap_user_cert" msgid="3569182430929173220">"Сертификат пользователя"</string>
     <string name="wifi_eap_identity" msgid="3629406902174137028">"Пользователь"</string>
-    <string name="wifi_eap_anonymous" msgid="8630332141751267000">"Анонимный пользователь"</string>
+    <string name="wifi_eap_anonymous" msgid="8630332141751267000">"Анонимный пользователь, деанон быстро блять"</string>
     <string name="wifi_password" msgid="1458802324849513755">"Пароль"</string>
     <string name="wifi_show_password" msgid="6865993988238157923">"Показать пароль"</string>
     <string name="wifi_ap_band_config" msgid="1589020070150933055">"Диапазон частот Wi-Fi"</string>
@@ -1412,11 +1411,11 @@
     <string name="status_voice_network_type" msgid="8700356693062562884">"Тип мобильной сети для голосовой связи"</string>
     <string name="status_latest_area_info" msgid="8288488664620741734">"Сведения об операторе"</string>
     <string name="status_data_state" msgid="525196229491743487">"Передача данных в моб. сети"</string>
-    <string name="status_esim_id" msgid="5158916796362809133">"Идентификатор eSIM (EID)"</string>
+    <string name="status_esim_id" msgid="5158916796362809133">"Идентификатор eblanSIM (EID)"</string>
     <string name="status_service_state" msgid="1693424422121058791">"Доступность моб. сети"</string>
     <string name="status_signal_strength" msgid="7644525712554444359">"Уровень сигнала"</string>
-    <string name="status_roaming" msgid="1253597174715663778">"Роуминг"</string>
-    <string name="status_operator" msgid="4335640583552058491">"Сеть"</string>
+    <string name="status_roaming" msgid="1253597174715663778">"Роуминг зиг хаиль"</string>
+    <string name="status_operator" msgid="4335640583552058491">"Сеть гудбай"</string>
     <string name="status_wifi_mac_address" msgid="4447611754614388914">"MAC-адрес Wi-Fi"</string>
     <string name="status_device_wifi_mac_address" msgid="1896121694334176494">"MAC-адрес Wi-Fi устройства"</string>
     <string name="status_bt_address" msgid="6919660304578476547">"Адрес Bluetooth"</string>
@@ -1519,8 +1518,8 @@
     <string name="storage_detail_other" msgid="3821329310612285961">"Другое"</string>
     <string name="storage_detail_system" msgid="3797439069473271732">"Система"</string>
     <string name="storage_detail_explore" msgid="13782374784415466">"<xliff:g id="NAME">^1</xliff:g>"</string>
-    <string name="storage_detail_dialog_other" msgid="3359851869961609901">"В разделе \"Другое\" находятся файлы, сохраненные приложениями, скачанные из Интернета или по Bluetooth, относящиеся к системе Android и т. д.\n\nЧтобы просмотреть файлы на устройстве \"<xliff:g id="NAME">^1</xliff:g>\", нажмите \"Открыть\"."</string>
-    <string name="storage_detail_dialog_system" msgid="7461009051858709479">"В разделе \"Система\" находятся файлы, используемые Android <xliff:g id="VERSION">%s</xliff:g>."</string>
+    <string name="storage_detail_dialog_other" msgid="3359851869961609901">"В разделе \"Другое\" находятся файлы, хуй, скачанные из Интернета или по Bluetooth, относящиеся к системе Android и т. д.\n\nЧтобы просмотреть файлы на устройстве \"<xliff:g id="NAME">^1</xliff:g>\", нажмите \"Открыть\"."</string>
+    <string name="storage_detail_dialog_system" msgid="7461009051858709479">"В разделе \"Система\" находятся суки, используемые Android <xliff:g id="VERSION">%s</xliff:g>."</string>
     <string name="storage_detail_dialog_user" msgid="1691219071007313226">"<xliff:g id="USER_0">^1</xliff:g>, возможно, хранит на запоминающем устройстве фотографии, музыку, приложения и другие данные общим объемом <xliff:g id="SIZE">^2</xliff:g>.\n\nЧтобы проверить это, войдите в аккаунт пользователя <xliff:g id="USER_1">^1</xliff:g>."</string>
     <string name="storage_wizard_init_title" msgid="9036374223934708619">"Настройте карту \"<xliff:g id="NAME">^1</xliff:g>\""</string>
     <string name="storage_wizard_init_external_title" msgid="6540132491909241713">"Портативный носитель"</string>
@@ -1533,8 +1532,8 @@
     <string name="storage_wizard_format_confirm_public_body" msgid="6219883780307218266">"Потребуется отформатировать устройство \"<xliff:g id="NAME_0">^1</xliff:g>\". \n\n"<b>"При этом будут удалены все данные на устройстве \"<xliff:g id="NAME_1">^1</xliff:g>\"."</b>" Чтобы избежать потери данных, используйте резервное копирование."</string>
     <string name="storage_wizard_format_confirm_next" msgid="4412063054982084056">"Очистить и отформатировать"</string>
     <string name="storage_wizard_format_progress_title" msgid="9170393018855949774">"<xliff:g id="NAME">^1</xliff:g> форматируется…"</string>
-    <string name="storage_wizard_format_progress_body" msgid="1044024044955390417">"Не извлекайте устройство \"<xliff:g id="NAME">^1</xliff:g>\" во время форматирования."</string>
-    <string name="storage_wizard_migrate_title" msgid="3013711737005104623">"Перенесите на новое устройство"</string>
+    <string name="storage_wizard_format_progress_body" msgid="1044024044955390417">"Не извлекайте хуй \"<xliff:g id="NAME">^1</xliff:g>\" во время форматирования."</string>
+    <string name="storage_wizard_migrate_title" msgid="3013711737005104623">"Перенесите нахуй"</string>
     <string name="storage_wizard_migrate_body" msgid="1630853797296198275">"Вы можете перенести фотографии, файлы и некоторые приложения на устройство \"<xliff:g id="NAME">^1</xliff:g>\". \n\nНа это уйдет около <xliff:g id="TIME">^2</xliff:g>, после чего освободится <xliff:g id="SIZE">^3</xliff:g> внутренней памяти. Во время этого процесса некоторые приложения не будут работать."</string>
     <string name="storage_wizard_migrate_now" msgid="175023718337037181">"Перенести сейчас"</string>
     <string name="storage_wizard_migrate_later" msgid="6573789572520980112">"Перенести позже"</string>
@@ -1763,7 +1762,7 @@
     <string name="location_scanning_bluetooth_always_scanning_description" msgid="5362988856388462841">"Разрешить приложениям и сервисам искать устройства поблизости, даже когда Bluetooth отключен. Это может улучшить работу функций и сервисов, использующих данные о местоположении."</string>
     <string name="managed_profile_location_services" msgid="8172092734138341880">"Геолокация для работы"</string>
     <string name="location_network_based" msgid="5247042890080021887">"По координатам сети"</string>
-    <string name="location_neighborhood_level" msgid="3668890550358558267">"Разрешить отправлять анонимные геоданные и позволить приложениям определять ваше местоположение с помощью Wi-Fi и мобильных сетей"</string>
+    <string name="location_neighborhood_level" msgid="3668890550358558267">"Разрешить отправлять не анонимные геоданные и позволить приложениям определять ваше местоположение с помощью Wi-Fi и мобильных сетей"</string>
     <string name="location_neighborhood_level_wifi" msgid="6227393490651891977">"С помощью Wi-Fi"</string>
     <string name="location_gps" msgid="8783616672454701134">"По спутникам GPS"</string>
     <string name="location_street_level" product="tablet" msgid="865953107414742784">"Разрешить приложениям использовать GPS для точного определения вашего местоположения"</string>
@@ -1776,30 +1775,30 @@
     <string name="location_access_title" msgid="4052667453826272040">"Доступ к моим геоданным"</string>
     <string name="location_access_summary" msgid="8634100005481578143">"Разрешить приложениям использовать данные о вашем местоположении"</string>
     <string name="location_sources_heading" msgid="6126965815860570524">"Определение местоположения"</string>
-    <string name="about_settings" product="tablet" msgid="2888705054709289693">"О планшете"</string>
-    <string name="about_settings" product="default" msgid="4038626127378127613">"О телефоне"</string>
-    <string name="about_settings" product="device" msgid="9012888717090302815">"Об устройстве"</string>
-    <string name="about_settings" product="emulator" msgid="2516560858771320366">"Об эмулированном устройстве"</string>
-    <string name="about_settings_summary" msgid="4831942939227432513">"Просмотр юридической информации, состояния планшетного ПК и версии ПО"</string>
-    <string name="legal_information" msgid="7509900979811934843">"Юридическая информация"</string>
-    <string name="contributors_title" msgid="7965640251547037965">"Участники"</string>
-    <string name="manual" msgid="3651593989906084868">"Руководство"</string>
-    <string name="regulatory_labels" msgid="5960251403367154270">"Этикетки сертификации"</string>
-    <string name="safety_and_regulatory_info" msgid="8285048080439298528">"Безопасность и соответствие стандартам"</string>
-    <string name="copyright_title" msgid="83245306827757857">"Авторские права"</string>
-    <string name="license_title" msgid="8745742085916617540">"Лицензия"</string>
-    <string name="module_license_title" msgid="8705484239826702828">"Лицензии обновления системы через Google Play"</string>
-    <string name="terms_title" msgid="2071742973672326073">"Условия использования"</string>
-    <string name="webview_license_title" msgid="5832692241345780517">"Системная лицензия WebView"</string>
-    <string name="wallpaper_attributions" msgid="3080339190260272255">"Обои"</string>
-    <string name="wallpaper_attributions_values" msgid="987277439026021925">"Спутниковые фотографии:\n© 2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
-    <string name="settings_manual_activity_title" msgid="1682978148920788484">"Руководство пользователя"</string>
-    <string name="settings_manual_activity_unavailable" msgid="2514549851682321576">"Не удалось загрузить руководство пользователя."</string>
-    <string name="settings_license_activity_title" msgid="7832071619364734914">"Лицензии третьих сторон"</string>
-    <string name="settings_license_activity_unavailable" msgid="9014803774391134570">"При загрузке лицензий возникла неполадка."</string>
-    <string name="settings_license_activity_loading" msgid="1653151990366578827">"Загрузка…"</string>
-    <string name="settings_safetylegal_title" msgid="1334501164265709288">"Сведения о безопасности"</string>
-    <string name="settings_safetylegal_activity_title" msgid="2218587051061093358">"Сведения о безопасности"</string>
+    <string name="about_settings" product="tablet" msgid="2888705054709289693">"О пизде"</string>
+    <string name="about_settings" product="default" msgid="4038626127378127613">"О хуе"</string>
+    <string name="about_settings" product="device" msgid="9012888717090302815">"Об говне"</string>
+    <string name="about_settings" product="emulator" msgid="2516560858771320366">"Об эмулированном говне"</string>
+    <string name="about_settings_summary" msgid="4831942939227432513">"Просмотр юридической информации о твоей мамке, состояния хуя и версии ПО"</string>
+    <string name="legal_information" msgid="7509900979811934843">"Юридическая информация о твоей параши"</string>
+    <string name="contributors_title" msgid="7965640251547037965">"Участники гей оргии"</string>
+    <string name="manual" msgid="3651593989906084868">"Руководство ЛГБТ"</string>
+    <string name="regulatory_labels" msgid="5960251403367154270">"Этикетки сертификации на говно"</string>
+    <string name="safety_and_regulatory_info" msgid="8285048080439298528">"Безопасность и не соответствие стандартам"</string>
+    <string name="copyright_title" msgid="83245306827757857">"Авторские права пидоров"</string>
+    <string name="license_title" msgid="8745742085916617540">"Лицензия на отсос"</string>
+    <string name="module_license_title" msgid="8705484239826702828">"Лицензии обновления системы через Gay"</string>
+    <string name="terms_title" msgid="2071742973672326073">"Условия отсоса"</string>
+    <string name="webview_license_title" msgid="5832692241345780517">"Системная лицензия хуйни какой то"</string>
+    <string name="wallpaper_attributions" msgid="3080339190260272255">"Обои с феминистками, говноедами и пидорасами"</string>
+    <string name="wallpaper_attributions_values" msgid="987277439026021925">"Спутниковые фотографии твоего очка, качественно не правда ли:\n© 2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
+    <string name="settings_manual_activity_title" msgid="1682978148920788484">"ты сам не понимаешь в интуитивно понятном интерфейсе дебил?"</string>
+    <string name="settings_manual_activity_unavailable" msgid="2514549851682321576">"Не удалось загрузить руководство пользователя, нахуй оно вообще нужно."</string>
+    <string name="settings_license_activity_title" msgid="7832071619364734914">"Лицензии третьих сторон, прими или иди нахуй"</string>
+    <string name="settings_license_activity_unavailable" msgid="9014803774391134570">"При загрузке лицензий возникла неполадка, мы ее чинить не собираемся."</string>
+    <string name="settings_license_activity_loading" msgid="1653151990366578827">"Загрузка говна…"</string>
+    <string name="settings_safetylegal_title" msgid="1334501164265709288">"Сведения о сливе инфы"</string>
+    <string name="settings_safetylegal_activity_title" msgid="2218587051061093358">"Сведения о сливе инфы в Пентагон "</string>
     <string name="settings_safetylegal_activity_unreachable" msgid="6571695168138207587">"Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом."</string>
     <string name="settings_safetylegal_activity_loading" msgid="1757860124583063395">"Загрузка…"</string>
     <string name="lockpassword_choose_your_screen_lock_header" msgid="7587198092214670356">"Настройте блокировку экрана"</string>
@@ -2007,7 +2006,7 @@
     <string name="app_disable_dlg_positive" msgid="1414218905322009505">"Отключить приложение"</string>
     <string name="app_disable_dlg_text" msgid="2449382902751908916">"Если вы отключите это приложение, система и другие программы могут работать неправильно. Приложение установлено производителем, поэтому его нельзя удалить с устройства. После отключения оно перестанет работать и будет скрыто."</string>
     <string name="app_disable_notifications_dlg_title" msgid="6686569904059411780">"Отключить уведомления?"</string>
-    <string name="app_install_details_group_title" msgid="1172114479073704677">"Магазин"</string>
+    <string name="app_install_details_group_title" msgid="1172114479073704677">"Магазин говна"</string>
     <string name="app_install_details_title" msgid="7783556181897142187">"Описание приложения"</string>
     <string name="app_install_details_summary" msgid="2013043219249992373">"Откуда скачано приложение: <xliff:g id="APP_STORE">%1$s</xliff:g>"</string>
     <string name="instant_app_details_summary" msgid="417197491598208216">"Подробнее (<xliff:g id="APP_STORE">%1$s</xliff:g>)"</string>
@@ -2095,7 +2094,7 @@
     <string name="virtual_keyboards_for_work_title" msgid="786459157034008675">"Экранная клавиатура для работы"</string>
     <string name="default_keyboard_layout" msgid="8690689331289452201">"По умолчанию"</string>
     <string name="pointer_speed" msgid="7398649279282675718">"Скорость указателя"</string>
-    <string name="game_controller_settings_category" msgid="8557472715034961918">"Игровые контроллеры"</string>
+    <string name="game_controller_settings_category" msgid="8557472715034961918">"ГЕЙмерские контроллеры"</string>
     <string name="vibrate_input_devices" msgid="5192591087864449142">"Перенаправление виброотклика"</string>
     <string name="vibrate_input_devices_summary" msgid="8791680891376689823">"Активировать виброотклик на подключенном игровом контроллере"</string>
     <string name="keyboard_layout_dialog_title" msgid="8770130364048089954">"Выбор раскладки клавиатуры"</string>
@@ -2124,8 +2123,8 @@
     <string name="user_dict_settings_all_languages" msgid="8563387437755363526">"Для всех языков"</string>
     <string name="user_dict_settings_more_languages" msgid="5378870726809672319">"Другой язык"</string>
     <string name="testing" msgid="6294172343766732037">"Проверка"</string>
-    <string name="testing_phone_info" product="tablet" msgid="1910768200608214456">"Информация о планшетном ПК"</string>
-    <string name="testing_phone_info" product="default" msgid="1150527695827743906">"Информация о телефоне"</string>
+    <string name="testing_phone_info" product="tablet" msgid="1910768200608214456">"Информация об извращенце"</string>
+    <string name="testing_phone_info" product="default" msgid="1150527695827743906">"Информация о говне"</string>
     <string name="input_methods_settings_title" msgid="7796027458321225550">"Ввод текста"</string>
     <string name="input_method" msgid="2982805181425436775">"Способ ввода"</string>
     <string name="current_input_method" msgid="3471068842881330883">"Текущая клавиатура"</string>
@@ -3297,7 +3296,7 @@
     <string name="keywords_wifi" msgid="8156528242318351490">"Wi-Fi, WiFi, сетевое подключение, Интернет, беспроводной, данные, Wi Fi"</string>
     <string name="keywords_wifi_notify_open_networks" msgid="6580896556389306636">"Уведомления о Wi‑Fi, уведомления о wifi"</string>
     <string name="keywords_wifi_data_usage" msgid="4718555409695862085">"передача данных"</string>
-    <string name="keywords_vibrate_on_touch" msgid="8379369786860641429">"Вибрация, нажатие, клавиатура"</string>
+    <string name="keywords_vibrate_on_touch" msgid="8379369786860641429">"оаа ими вибратор топ"</string>
     <string name="keywords_time_format" msgid="5384803098766166820">"Использовать 24-часовой формат"</string>
     <string name="keywords_storage_files" msgid="4509695858659705198">"Скачивание"</string>
     <string name="keywords_app_default" msgid="8977706259156428770">"Открыть с помощью"</string>
@@ -3312,49 +3311,49 @@
     <string name="keywords_display_brightness_level" msgid="850742707616318056">"снижение яркости, сенсорный экран, батарея, яркий"</string>
     <string name="keywords_display_night_display" msgid="4711054330804250058">"снижение яркости, ночь, оттенок, ночной режим, яркость, цвет экрана, цвет"</string>
     <string name="keywords_display_wallpaper" msgid="8478137541939526564">"фон, настройка, пользовательский дисплей"</string>
-    <string name="keywords_display_font_size" msgid="3593317215149813183">"размер шрифта"</string>
-    <string name="keywords_display_cast_screen" msgid="2572331770299149370">"проектор, трансляция, дублирование экрана, демонстрация экрана, поделиться изображением на экране, трансляция экрана"</string>
-    <string name="keywords_storage" msgid="3004667910133021783">"пространство, диск, жесткий диск, использование устройства"</string>
-    <string name="keywords_battery" msgid="7040323668283600530">"расход заряда батареи, зарядка"</string>
-    <string name="keywords_spell_checker" msgid="5148906820603481657">"правописание, проверка, словарь, автозамена"</string>
-    <string name="keywords_voice_input" msgid="7534900094659358971">"распознавание, ввод, речь, произносить, язык, гарнитура, нецензурная речь, слово, аудио, история, bluetooth-гарнитура"</string>
+    <string name="keywords_display_font_size" msgid="3593317215149813183">"размер хуя уменьшается"</string>
+    <string name="keywords_display_cast_screen" msgid="2572331770299149370">"насладись гачимучи на плазме"</string>
+    <string name="keywords_storage" msgid="3004667910133021783">"памяти нет нихуя, беги поко х3 покупай"</string>
+    <string name="keywords_battery" msgid="7040323668283600530">"утилизируй акб"</string>
+    <string name="keywords_spell_checker" msgid="5148906820603481657">"ты дебил"</string>
+    <string name="keywords_voice_input" msgid="7534900094659358971">"хуй пизда говно собака"</string>
     <string name="keywords_text_to_speech_output" msgid="6728080502619011668">"скорость, язык, по умолчанию, озвучивание, чтение с экрана, специальные возможности, зрение, синтез речи, слепой"</string>
     <string name="keywords_date_and_time" msgid="4402136313104901312">"часы, формат"</string>
     <string name="keywords_network_reset" msgid="4075670452112218042">"сбросить настройки, вернуться к заводским настройкам"</string>
-    <string name="keywords_factory_data_reset" msgid="4979623326958976773">"стереть, удалить, восстановить, очистить, удалить, сбросить до заводских настроек"</string>
-    <string name="keywords_printing" msgid="3528250034669909466">"принтер"</string>
-    <string name="keywords_sounds" msgid="1850691834585575875">"сигнал динамика, динамик, громкость, отключить звук, беззвучный режим, аудио, музыка"</string>
-    <string name="keywords_sounds_and_notifications_interruptions" msgid="1500312884808362467">"не беспокоить, режим оповещения, оповещение, прерывание"</string>
+    <string name="keywords_factory_data_reset" msgid="4979623326958976773">"стереть тебя с планетв, удалить, восстановить, очистить, удалить, сбросить до заводских настроек"</string>
+    <string name="keywords_printing" msgid="3528250034669909466">"принтер не печатает блять"</string>
+    <string name="keywords_sounds" msgid="1850691834585575875">"сигнал динамика сука мощный шо пиздец, динамик умир, громкость ДОЛЖНА ДОЛБИТЬ ВСЕХ СУКА, отключить звук, как это?, беззвучный режим, СУКА ГРОМКО СДЕЛАЙ, ты аудиопедофил, музыка подсоса"</string>
+    <string name="keywords_sounds_and_notifications_interruptions" msgid="1500312884808362467">"не беспокоить, беспокойте этого пидора срочно блять, режим оповещения о следующем отсосе, оповещение населения говно, прерывание на рекламу"</string>
     <string name="keywords_app" msgid="7983814237980258061">"ОЗУ"</string>
-    <string name="keywords_location" msgid="8016374808099706213">"поблизости, местоположение, история, отчеты, GPS"</string>
-    <string name="keywords_accounts" msgid="3482052586502133909">"аккаунт, добавить аккаунт, рабочий профиль, добавление аккаунта"</string>
-    <string name="keywords_users" msgid="3497517660077620843">"ограничение, ограничить, ограничено"</string>
+    <string name="keywords_location" msgid="8016374808099706213">"поблизости много педиков, местоположение твоего хуя, история твоих отсосов, отчеты о твоей сексуальной активности уже слиты, GayPornSas"</string>
+    <string name="keywords_accounts" msgid="3482052586502133909">"аккаунт что это от а до я, добавить аккаунт для отсоса, рабочий профиль твоего РАБотодателя, добавление аккаунта твоего папика"</string>
+    <string name="keywords_users" msgid="3497517660077620843">"ограничение размера твоего хуя, ограничить время твоей свободы, ограничено время твоей свободы"</string>
     <string name="keywords_keyboard_and_ime" msgid="4741098648730042570">"исправление текста, автозамена, звук, вибрация, авто, язык, жест, подсказка, тема, неприемлемый, слово, ввод, эмодзи, смайлик, международный"</string>
-    <string name="keywords_reset_apps" msgid="8254315757754930862">"сбросить, настройки, по умолчанию"</string>
-    <string name="keywords_all_apps" msgid="9016323378609007166">"приложения, скачать, установить, система"</string>
-    <string name="keywords_app_permissions" msgid="2061773665663541610">"приложения, разрешения, безопасность"</string>
-    <string name="keywords_default_apps" msgid="4601664230800605416">"приложения, по умолчанию"</string>
-    <string name="keywords_ignore_optimizations" msgid="8967142288569785145">"игнорировать ограничения, doze, app standby"</string>
-    <string name="keywords_color_mode" msgid="1193896024705705826">"насыщенный, RGB, sRGB, цвет, естественный, стандартный"</string>
-    <string name="keywords_color_temperature" msgid="8159539138837118453">"цветовая температура, D65, D73, белый, желтый, синий, теплый, холодный"</string>
-    <string name="keywords_lockscreen" msgid="3656926961043485797">"провести для разблокировки, пароль, графический ключ, PIN-код"</string>
-    <string name="keywords_app_pinning" msgid="1564144561464945019">"блокировка в приложении"</string>
-    <string name="keywords_profile_challenge" msgid="5135555521652143612">"защита рабочего профиля, рабочий, профиль"</string>
-    <string name="keywords_unification" msgid="2677472004971453468">"рабочий профиль, управляемый профиль, объединить, объединение, работа, профиль"</string>
+    <string name="keywords_reset_apps" msgid="8254315757754930862">"сбросить, настройки твоего хуя до 0 миллиметров"</string>
+    <string name="keywords_all_apps" msgid="9016323378609007166">"приложения для твоей параши, скачать гачимучи, установить гей порно, система удалена"</string>
+    <string name="keywords_app_permissions" msgid="2061773665663541610">"приложения говна, проникновение в твой анус, опасность fluid"</string>
+    <string name="keywords_default_apps" msgid="4601664230800605416">"приложения, по умолчанию ебут тебя в жопу"</string>
+    <string name="keywords_ignore_optimizations" msgid="8967142288569785145">"игнорировать ограничения твоего ануса, dolbixui, aaaa pizda"</string>
+    <string name="keywords_color_mode" msgid="1193896024705705826">"насыщенный кубиками пресс топ, RadiationGayBlyat, superRadiationGayBlyat, цвет говна, естественный хуй, стандартный пресс говно"</string>
+    <string name="keywords_color_temperature" msgid="8159539138837118453">"цветовая температура миксера,пизDец, что блять, белый как моя сперма, желтый как твоя моча, синий как твоё ебало после отсоса, теплый как мой хуй, холодный как твой анус ужасный"</string>
+    <string name="keywords_lockscreen" msgid="3656926961043485797">"провести для разблокировки, пфф ты чо совсем долбаёб ты хочешь, чтобы я спиздил твой деанон и интии, ну и где пароль от твоей связки паролей и ключей, я требую графический ключ для входа в твой дом, нам нужен PIN-код от вашей банковской карты"</string>
+    <string name="keywords_app_pinning" msgid="1564144561464945019">"блокировка в приложении xiaomi mi gay"</string>
+    <string name="keywords_profile_challenge" msgid="5135555521652143612">"защита рабочего профиля от тебя, рабочий, профиль, не рабочий"</string>
+    <string name="keywords_unification" msgid="2677472004971453468">"не рабочий профиль, не управляемый профиль, объединяй услуги, скидки на всё, связь, ты и домашний интернет, объединение пидоров, работай ртом, профиль хуесоса"</string>
     <string name="keywords_gesture" msgid="3456930847450080520">"жесты"</string>
-    <string name="keywords_cards_passes" msgid="4798102029412153067">"карты, проездные, пропуска"</string>
-    <string name="keywords_device_controls" msgid="8962494082504033651">"виджеты управления устройством, элементы управления"</string>
-    <string name="keywords_payment_settings" msgid="6268791289277000043">"Бесконтактная оплата"</string>
-    <string name="keywords_backup" msgid="707735920706667685">"создать резервную копию"</string>
-    <string name="keywords_assist_gesture_launch" msgid="7710762655355161924">"жест"</string>
-    <string name="keywords_face_unlock" msgid="545338452730885392">"лицо, разблокировать, аутентификация, вход"</string>
+    <string name="keywords_cards_passes" msgid="4798102029412153067">"карты, проездные, пропуска, отсосы, резиновые хуи, такси"</string>
+    <string name="keywords_device_controls" msgid="8962494082504033651">"виджеты управления говном, элементы управления хуйни"</string>
+    <string name="keywords_payment_settings" msgid="6268791289277000043">"Бесконтактная оплата пиздой или хуём или отсосом"</string>
+    <string name="keywords_backup" msgid="707735920706667685">"создать резервную копию, но данных нихуя не сохранится"</string>
+    <string name="keywords_assist_gesture_launch" msgid="7710762655355161924">"жест по вашему очку"</string>
+    <string name="keywords_face_unlock" msgid="545338452730885392">"ебало у вас уродское, разблокировать нельзя, заплатите 50 евро, аутизм, вход в ваше очко"</string>
     <string name="keywords_imei_info" msgid="8848791606402333514">"imei, meid, min, версия prl, imeisv"</string>
-    <string name="keywords_sim_status" msgid="8784456547742075508">"сеть, подключение к мобильной сети, доступность мобильной сети, уровень сигнала, тип мобильной сети, роуминг, ICCID, EID"</string>
-    <string name="keywords_model_and_hardware" msgid="4723665865709965044">"серийный номер, версия аппаратного обеспечения"</string>
-    <string name="keywords_android_version" msgid="1629882125290323070">"обновление системы безопасности, прошивка модуля связи, версия ядра"</string>
-    <string name="keywords_dark_ui_mode" msgid="6465231409128452489">"тема, светлая, тёмная, режим"</string>
-    <string name="keywords_systemui_theme" msgid="6341194275296707801">"темная тема"</string>
-    <string name="keywords_device_feedback" msgid="5489930491636300027">"ошибка"</string>
+    <string name="keywords_sim_status" msgid="8784456547742075508">"сеть, подключение к мобильной сети невозможно, доступность мобильной сети, без сети, уровень шейпа, которого нет, тип говна, роуминг за который нужно сосать, ICCID, EID"</string>
+    <string name="keywords_model_and_hardware" msgid="4723665865709965044">"серийный номер или DRE ID вашего оборудования, версия аппаратного говна"</string>
+    <string name="keywords_android_version" msgid="1629882125290323070">"обновление системы безопасности, безопасности нет, но вы держитесь , прошивка модуля связи, которой нет, версия очка"</string>
+    <string name="keywords_dark_ui_mode" msgid="6465231409128452489">"тема, светлая как сперма, тёмная как анус негра, режим"</string>
+    <string name="keywords_systemui_theme" msgid="6341194275296707801">"темная тема, работает лучше, ведь черные работают лучше"</string>
+    <string name="keywords_device_feedback" msgid="5489930491636300027">"ошибка, необходимо отсосать"</string>
     <string name="keywords_ambient_display_screen" msgid="661492302323274647">"Автоматическое включение экрана, заблокированный экран"</string>
     <string name="keywords_lock_screen_notif" msgid="6363144436467429932">"уведомление на экране блокировки, уведомления"</string>
     <string name="keywords_face_settings" msgid="1360447094486865058">"лицо"</string>
@@ -3372,7 +3371,7 @@
     <string name="keywords_assist_input" msgid="3086289530227075593">"по умолчанию, ассистент"</string>
     <string name="keywords_default_payment_app" msgid="5162298193637362104">"оплата, по умолчанию"</string>
     <string name="keywords_ambient_display" msgid="3149287105145443697">"входящее уведомление"</string>
-    <string name="keywords_hotspot_tethering" msgid="3688439689671232627">"USB-модем, Bluetooth-модем, точка доступа Wi-Fi"</string>
+    <string name="keywords_hotspot_tethering" msgid="3688439689671232627">"При раздаче интернета через USB-модем, Bluetooth-модем или точку доступа Wi-Fi вы должны отсосать и оплатить 50 евро"</string>
     <string name="keywords_touch_vibration" msgid="1125291201902251273">"осязание, вибрировать, экран, чувствительность"</string>
     <string name="keywords_ring_vibration" msgid="1736301626537417541">"осязание, вибрация, телефон, звонок, чувствительность, вызов"</string>
     <string name="keywords_notification_vibration" msgid="9162262178415439951">"осязание, вибрация, чувствительность"</string>
@@ -3544,7 +3543,7 @@
     <string name="work_sync_dialog_message" msgid="1328692374812258546">"В рабочем профиле будут использованы сигналы из личного профиля."</string>
     <string name="ringtones_install_custom_sound_title" msgid="3885712267015760638">"Добавление пользовательского сигнала"</string>
     <string name="ringtones_install_custom_sound_content" msgid="5844996763705884979">"Этот файл будет скопирован в папку \"<xliff:g id="FOLDER_NAME">%s</xliff:g>\""</string>
-    <string name="ringtones_category_preference_title" msgid="26680768777533727">"Рингтоны"</string>
+    <string name="ringtones_category_preference_title" msgid="26680768777533727">"Мелодия порно"</string>
     <string name="other_sound_category_preference_title" msgid="8182757473602586634">"Другие звуки и вибросигналы"</string>
     <string name="configure_notification_settings" msgid="1492820231694314376">"Уведомления"</string>
     <string name="recent_notifications" msgid="1105631022180160436">"Недавно отправленные"</string>
@@ -3671,11 +3670,11 @@
     <string name="notification_importance_default_title" msgid="8875198696330289686">"Высокая"</string>
     <string name="notification_importance_high_title" msgid="394129291760607808">"Всплывающее окно"</string>
     <string name="notification_block_title" msgid="7392909527700971673">"Блокировка"</string>
-    <string name="notification_silence_title" msgid="4085829874452944989">"Без звука"</string>
+    <string name="notification_silence_title" msgid="4085829874452944989">"со смыслом "</string>
     <string name="notification_alert_title" msgid="1632401211722199217">"По умолчанию"</string>
     <string name="allow_interruption" msgid="5237201780159482716">"Разрешить оповещения"</string>
     <string name="allow_interruption_summary" msgid="9044131663518112543">"Включить звуковой сигнал, вибрацию, а также показывать уведомления поверх других приложений"</string>
-    <string name="notification_priority_title" msgid="5554834239080425229">"Приоритет"</string>
+    <string name="notification_priority_title" msgid="5554834239080425229">"Приоритет, которого нет"</string>
     <string name="notification_channel_summary_priority" msgid="7225362351439076913">"Появляется в верхней части списка разговоров и как всплывающий чат, фото профиля показывается на заблок. экране"</string>
     <string name="convo_not_supported_summary" msgid="4285471045268268048">"Приложение \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" не поддерживает большинство функций разговоров. Вы не можете отметить разговоры как важные, и они не будут появляться в виде всплывающих чатов."</string>
     <string name="notification_channel_summary_min" msgid="8823399508450176842">"Объединять уведомления в одну строку на панели уведомлений"</string>
@@ -4157,9 +4156,9 @@
     <string name="always_running" msgid="9012705720688200252">"Постоянно (<xliff:g id="PERCENTAGE">%s</xliff:g>)"</string>
     <string name="sometimes_running" msgid="7954947311082655448">"Иногда (<xliff:g id="PERCENTAGE">%s</xliff:g>)"</string>
     <string name="rarely_running" msgid="2704869567353196798">"Редко (<xliff:g id="PERCENTAGE">%s</xliff:g>)"</string>
-    <string name="memory_max_use" msgid="8721866158069974846">"Максимум"</string>
+    <string name="memory_max_use" msgid="8721866158069974846">"Максимум HD"</string>
     <string name="memory_avg_use" msgid="4620476409349875703">"В среднем"</string>
-    <string name="memory_max_desc" msgid="6966923521720393526">"Максимум <xliff:g id="MEMORY">%1$s</xliff:g>"</string>
+    <string name="memory_max_desc" msgid="6966923521720393526">"Максимум Супер HD <xliff:g id="MEMORY">%1$s</xliff:g>"</string>
     <string name="memory_avg_desc" msgid="2632995851138152303">"В среднем <xliff:g id="MEMORY">%1$s</xliff:g>"</string>
     <string name="memory_use_running_format" msgid="4376086847362492613">"<xliff:g id="MEMORY">%1$s</xliff:g>/<xliff:g id="RUNNING">%2$s</xliff:g>"</string>
     <string name="process_format" msgid="4239069158701023623">"<xliff:g id="APP_NAME">%1$s</xliff:g> (<xliff:g id="COUNT">%2$d</xliff:g>)"</string>
@@ -4266,8 +4265,8 @@
     <string name="zen_access_disabled_package_warning" msgid="6565908224294537889">"Должно быть включено, поскольку разрешен доступ к уведомлениям"</string>
     <string name="zen_access_revoke_warning_dialog_title" msgid="7377261509261811449">"Отменить доступ к режиму \"Не беспокоить\" для приложения <xliff:g id="APP">%1$s</xliff:g>?"</string>
     <string name="zen_access_revoke_warning_dialog_summary" msgid="8689801842914183595">"Все правила режима \"Не беспокоить\", созданные этим приложением, будут удалены."</string>
-    <string name="ignore_optimizations_on" msgid="6865583039303804932">"Не экономить"</string>
-    <string name="ignore_optimizations_off" msgid="9186557038453586295">"Экономить"</string>
+    <string name="ignore_optimizations_on" msgid="6865583039303804932">"Не экономить, правильно хорошо сосёшь не надо экономить"</string>
+    <string name="ignore_optimizations_off" msgid="9186557038453586295">"Экономить, а то ты слишком мало сосёшь"</string>
     <string name="ignore_optimizations_on_desc" msgid="1280043916460939932">"Батарея может разрядиться быстрее. Ограничение на использование батареи в фоновом режиме будет снято."</string>
     <string name="ignore_optimizations_off_desc" msgid="3324571675983286177">"Рекомендуется для увеличения времени работы устройства от батареи."</string>
     <string name="ignore_optimizations_title" msgid="3464172726254542889">"Не ограничивать расход заряда батареи в приложении \"<xliff:g id="APP">%s</xliff:g>\"?"</string>
@@ -4310,23 +4309,23 @@
     <string name="screen_zoom_title" msgid="6928045302654960559">"Масштаб изображения на экране"</string>
     <string name="screen_zoom_short_summary" msgid="2458636490408833800">"Сделайте объекты на экране больше или меньше"</string>
     <string name="screen_zoom_keywords" msgid="5964023524422386592">"разрешение экрана, масштаб, увеличение, уменьшение"</string>
-    <string name="screen_zoom_summary" msgid="1362984939045594989">"Сделайте объекты на экране меньше или больше. Может измениться порядок значков приложений."</string>
+    <string name="screen_zoom_summary" msgid="1362984939045594989">"Сделайте объекты на экране больше,а свой хуй меньше. Может измениться порядок значков приложений и привлекательность среди мужчин."</string>
     <string name="screen_zoom_preview_title" msgid="5288355628444562735">"Просмотр"</string>
     <string name="screen_zoom_make_smaller_desc" msgid="2628662648068995971">"Уменьшить"</string>
     <string name="screen_zoom_make_larger_desc" msgid="7268794713428853139">"Увеличить"</string>
     <string name="screen_zoom_conversation_icon_alex" msgid="2896036059049355968">"A"</string>
     <string name="screen_zoom_conversation_icon_pete" msgid="4873109337506890558">"С"</string>
-    <string name="screen_zoom_conversation_message_1" msgid="2641317981482545659">"Привет, Саша!"</string>
-    <string name="screen_zoom_conversation_message_2" msgid="6528272610590915790">"Хочешь выпить кофе после обеда?"</string>
-    <string name="screen_zoom_conversation_message_3" msgid="6930848361702066106">"Давай! Недалеко от моего дома есть хорошее кафе."</string>
-    <string name="screen_zoom_conversation_message_4" msgid="2501043894465807210">"Отлично!"</string>
+    <string name="screen_zoom_conversation_message_1" msgid="2641317981482545659">"Привет, пидор!"</string>
+    <string name="screen_zoom_conversation_message_2" msgid="6528272610590915790">"Хочешь посмотреть гачимучи после обеда?"</string>
+    <string name="screen_zoom_conversation_message_3" msgid="6930848361702066106">"Давай! Недалеко от моего дома есть хорошее кафе, там я тебя ещё и выебу гандон ебаный."</string>
+    <string name="screen_zoom_conversation_message_4" msgid="2501043894465807210">"Отлично, уже иду покупать смазку!"</string>
     <string name="screen_zoom_conversation_timestamp_1" msgid="512353741016062507">"Вт, 18:00"</string>
     <string name="screen_zoom_conversation_timestamp_2" msgid="472183807915497199">"Вт, 18:01"</string>
     <string name="screen_zoom_conversation_timestamp_3" msgid="1659313906250856104">"Вт, 18:02"</string>
     <string name="screen_zoom_conversation_timestamp_4" msgid="2046797647382623313">"Вт, 18:03"</string>
     <string name="disconnected" msgid="3469373726996129247">"Не подключено"</string>
     <string name="keyboard_disconnected" msgid="796053864561894531">"Не подключено"</string>
-    <string name="data_usage_summary_format" msgid="6844301859713164522">"Использовано трафика: <xliff:g id="AMOUNT">%1$s</xliff:g>"</string>
+    <string name="data_usage_summary_format" msgid="6844301859713164522">"Использовано трафика, ахахаха, подключи безлимитный интернет шавка: <xliff:g id="AMOUNT">%1$s</xliff:g>"</string>
     <string name="data_usage_wifi_format" msgid="7644390582649568117">"<xliff:g id="AMOUNT">^1</xliff:g> передано через Wi‑Fi"</string>
     <plurals name="notification_summary" formatted="false" msgid="7638388920823212470">
       <item quantity="one">Отключены для <xliff:g id="COUNT">%d</xliff:g> приложения</item>
@@ -4343,21 +4342,21 @@
     <string name="display_dashboard_summary" msgid="5102247404958535634">"Обои, спящий режим, размер шрифта"</string>
     <string name="display_dashboard_summary_with_style" msgid="2792175367835485163">"Стили, обои, отключение экрана, размер шрифта."</string>
     <string name="display_dashboard_nowallpaper_summary" msgid="6198590533661927162">"Спящий режим, размер шрифта"</string>
-    <string name="display_summary_example" msgid="4275121979039344438">"Устройство переходит в спящий режим через 10 минут бездействия"</string>
+    <string name="display_summary_example" msgid="4275121979039344438">"Устройство переходит в гей режим через 10 минут бездействия"</string>
     <string name="memory_summary" msgid="8221954450951651735">"Используется в среднем <xliff:g id="USED_MEMORY">%1$s</xliff:g> из <xliff:g id="TOTAL_MEMORY">%2$s</xliff:g>"</string>
     <string name="users_summary" msgid="8473589474976307510">"Вы вошли как <xliff:g id="USER_NAME">%1$s</xliff:g>"</string>
     <string name="payment_summary" msgid="5513009140568552693">"По умолчанию: <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
     <string name="backup_disabled" msgid="4503062265560959320">"Резервное копирование отключено"</string>
-    <string name="android_version_summary" msgid="7818952662015042768">"Обновлено до Android <xliff:g id="VERSION">%1$s</xliff:g>"</string>
-    <string name="android_version_pending_update_summary" msgid="5404532347171027730">"Доступно обновление"</string>
-    <string name="disabled_by_policy_title" msgid="8296938784202750494">"Действие запрещено"</string>
+    <string name="android_version_summary" msgid="7818952662015042768">"Обновлено при помощи вашего отсоса до Android 156 zero <xliff:g id="VERSION">%1$s</xliff:g>"</string>
+    <string name="android_version_pending_update_summary" msgid="5404532347171027730">"Доступно обновление до версии 3.3.215 "</string>
+    <string name="disabled_by_policy_title" msgid="8296938784202750494">"Действие запрещено, иди сосать"</string>
     <string name="disabled_by_policy_title_adjust_volume" msgid="1669689058213728099">"Невозможно изменить громкость"</string>
-    <string name="disabled_by_policy_title_outgoing_calls" msgid="2776004460663768982">"Звонки запрещены"</string>
-    <string name="disabled_by_policy_title_sms" msgid="6309460145439706922">"Отправка SMS запрещена"</string>
-    <string name="disabled_by_policy_title_camera" msgid="8567781468959299078">"Доступ к камере запрещен"</string>
-    <string name="disabled_by_policy_title_screen_capture" msgid="6137746705692573992">"Запрещено делать скриншоты"</string>
-    <string name="disabled_by_policy_title_suspend_packages" msgid="4223983156635729793">"Невозможно открыть приложение"</string>
-    <string name="default_admin_support_msg" msgid="8338570262037182531">"Если у вас есть вопросы, обратитесь к администратору."</string>
+    <string name="disabled_by_policy_title_outgoing_calls" msgid="2776004460663768982">"Звонки запрещены, потому что вы раб"</string>
+    <string name="disabled_by_policy_title_sms" msgid="6309460145439706922">"Отправка SMS запрещена, потому что ты пидор"</string>
+    <string name="disabled_by_policy_title_camera" msgid="8567781468959299078">"Доступ к камере запрещен, но точнее разрешён, мы все таки хотим видеть как ты дрочишь"</string>
+    <string name="disabled_by_policy_title_screen_capture" msgid="6137746705692573992">"Запрещено делать скриншоты, потому что нам насрать"</string>
+    <string name="disabled_by_policy_title_suspend_packages" msgid="4223983156635729793">"Невозможно открыть приложение, потому что пидорасы"</string>
+    <string name="default_admin_support_msg" msgid="8338570262037182531">"Если у вас есть вопросы, обратитесь к администратору и отсосать не забудьте."</string>
     <string name="admin_support_more_info" msgid="8407433155725898290">"Подробнее…"</string>
     <string name="admin_profile_owner_message" msgid="8860709969532649195">"Администратор может контролировать настройки, приложения, разрешения и параметры доступа к корпоративным ресурсам в этом профиле, а также связанные с ним данные, например сведения о местоположении или действиях в сети."</string>
     <string name="admin_profile_owner_user_message" msgid="4929926887231544950">"Администратор может контролировать настройки, приложения, разрешения и параметры доступа к корпоративным ресурсам для этого пользователя, а также связанные с ним данные, например сведения о местоположении или действиях в сети."</string>
@@ -4409,7 +4408,7 @@
       <item quantity="other">Ещё <xliff:g id="COUNT">%1$d</xliff:g> подсказки</item>
     </plurals>
     <string name="suggestion_remove" msgid="6753986344585367776">"Убрать"</string>
-    <string name="color_temperature" msgid="8256912135746305176">"Холодные оттенки"</string>
+    <string name="color_temperature" msgid="8256912135746305176">"Холодные оттенки хуя"</string>
     <string name="color_temperature_desc" msgid="6713259535885669622">"Использовать более холодные цвета на экране"</string>
     <string name="color_temperature_toast" msgid="7611532183532407342">"Для изменения цветовых настроек нужно отключить экран"</string>
     <string name="camera_laser_sensor_switch" msgid="7097842750947187671">"Лазерный датчик камеры"</string>
@@ -4438,7 +4437,7 @@
       <item quantity="many"><xliff:g id="COUNT">%1$d</xliff:g> ограничений</item>
       <item quantity="other"><xliff:g id="COUNT">%1$d</xliff:g> ограничения</item>
     </plurals>
-    <string name="operator_warning" msgid="5672761970087591211">"Данные оператора связи могут отличаться от данных на устройстве."</string>
+    <string name="operator_warning" msgid="5672761970087591211">"Данные оператора связи не могут отличаться от данных по вашим отсосам на устройстве."</string>
     <string name="data_used_template" msgid="8229342096562327646">"Расход: <xliff:g id="ID_1">%1$s</xliff:g>"</string>
     <string name="set_data_warning" msgid="1685771882794205462">"Установить предупреждение"</string>
     <string name="data_warning" msgid="2925054658166062884">"Предупреждение"</string>
@@ -4470,8 +4469,8 @@
     </plurals>
     <string name="billing_cycle_none_left" msgid="1694844019159277504">"Время истекло."</string>
     <string name="billing_cycle_less_than_one_day_left" msgid="1210202399053992163">"Осталось меньше 1 дня"</string>
-    <string name="carrier_and_update_text" msgid="5363656651921656280">"Обновлено <xliff:g id="ID_2">^2</xliff:g> назад оператором <xliff:g id="ID_1">^1</xliff:g>"</string>
-    <string name="no_carrier_update_text" msgid="5432798085593055966">"Обновлено <xliff:g id="ID_1">^2</xliff:g> назад"</string>
+    <string name="carrier_and_update_text" msgid="5363656651921656280">"Обновлено до версии 1.2.380 <xliff:g id="ID_2">^2</xliff:g> назад оператором <xliff:g id="ID_1">^1</xliff:g>"</string>
+    <string name="no_carrier_update_text" msgid="5432798085593055966">"Обновлено до версии 1.2.380 <xliff:g id="ID_1">^2</xliff:g> назад"</string>
     <string name="carrier_and_update_now_text" msgid="5075861262344398849">"Обновлено только что оператором <xliff:g id="ID_1">^1</xliff:g>"</string>
     <string name="no_carrier_update_now_text" msgid="7898004907837200752">"Обновлено только что"</string>
     <string name="launch_mdp_app_text" msgid="8791816789749304897">"Посмотреть тарифный план"</string>
@@ -4736,7 +4735,7 @@
       <item quantity="many"><xliff:g id="COUNT_1">%d</xliff:g> попыток</item>
       <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> попытки</item>
     </plurals>
-    <string name="do_disclosure_generic" msgid="3067459392402324538">"Этим устройством управляет ваша организация."</string>
+    <string name="do_disclosure_generic" msgid="3067459392402324538">"Этим устройством управляет ваша хуйня."</string>
     <string name="do_disclosure_with_name" msgid="867544298924410766">"Этим устройством управляет <xliff:g id="ORGANIZATION_NAME">%s</xliff:g>."</string>
     <string name="do_disclosure_learn_more_separator" msgid="5714364437437041671">" "</string>
     <string name="learn_more" msgid="3534519107947510952">"Подробнее"</string>
@@ -4859,9 +4858,9 @@
     <string name="media_output_switching" msgid="7488216595474868546">"Подождите…"</string>
     <string name="take_call_on_title" msgid="1159417893879946757">"Ответить с помощью"</string>
     <string name="cannot_change_apn_toast" msgid="296540724089240405">"Изменить параметры этой точки доступа невозможно"</string>
-    <string name="battery_suggestion_title" product="tablet" msgid="1525940496459255289">"Продлите время работы от батареи"</string>
-    <string name="battery_suggestion_title" product="device" msgid="2280773774080720377">"Продлите время работы от батареи"</string>
-    <string name="battery_suggestion_title" product="default" msgid="4811554469047272537">"Продлите время работы от батареи"</string>
+    <string name="battery_suggestion_title" product="tablet" msgid="1525940496459255289">"Продлите время рабства от батареи"</string>
+    <string name="battery_suggestion_title" product="device" msgid="2280773774080720377">"Продлите время рабства от батареи"</string>
+    <string name="battery_suggestion_title" product="default" msgid="4811554469047272537">"Продлите время рабства от батареи"</string>
     <string name="battery_suggestion_summary" msgid="8186720080540016197"></string>
     <string name="gesture_prevent_ringing_screen_title" msgid="8293094715267769349">"Отключение звука звонка"</string>
     <string name="gesture_prevent_ringing_title" msgid="5978577898997523581">"Одновременное нажатие кнопок питания и увеличения громкости:"</string>
@@ -4873,7 +4872,7 @@
     <string name="prevent_ringing_option_mute_summary" msgid="4885288334872920616">"Включено (без звука)"</string>
     <string name="prevent_ringing_option_none_summary" msgid="7004926708584574224">"Выключено"</string>
     <string name="pref_title_network_details" msgid="7329759534269363308">"Сведения о сети"</string>
-    <string name="about_phone_device_name_warning" msgid="764557372426153827">"У приложений на телефоне есть доступ к названию устройства. Его могут видеть другие пользователи, когда вы подключаетесь к устройствам по Bluetooth или настраиваете точку доступа Wi-Fi."</string>
+    <string name="about_phone_device_name_warning" msgid="764557372426153827">"У приложений на телефоне есть доступ к вашему очку. Его могут видеть другие пользователи, когда вы подключаетесь к устройствам по Bluetooth или настраиваете точку доступа Wi-Fi."</string>
     <string name="devices_title" msgid="649715719278562515">"Устройства"</string>
     <string name="homepage_all_settings" msgid="1877827279189801035">"Все настройки"</string>
     <string name="homepage_personal_settings" msgid="8312279476519359656">"Подсказки"</string>
@@ -4944,62 +4943,62 @@
     <string name="mobile_data_settings_title" msgid="3927524078598009792">"Мобильный Интернет"</string>
     <string name="mobile_data_settings_summary" msgid="7323978798199919063">"Доступ к Интернету по мобильной сети"</string>
     <string name="mobile_data_settings_summary_auto_switch" msgid="7851549787645698945">"Телефон автоматически подключится к сети этого оператора, когда вы окажетесь в зоне ее действия."</string>
-    <string name="calls_preference" msgid="2166481296066890129">"Настройки звонков"</string>
-    <string name="sms_preference" msgid="7742964962568219351">"Настройки SMS"</string>
-    <string name="calls_and_sms_ask_every_time" msgid="3178743088737726677">"Всегда спрашивать"</string>
-    <string name="mobile_network_summary_add_a_network" msgid="9079866102827526779">"Добавить сеть"</string>
+    <string name="calls_preference" msgid="2166481296066890129">"Настройки ануса"</string>
+    <string name="sms_preference" msgid="7742964962568219351">"я камень работаю 5 дня ааа"</string>
+    <string name="calls_and_sms_ask_every_time" msgid="3178743088737726677">"Наташка по имени шампунь жумайсынба"</string>
+    <string name="mobile_network_summary_add_a_network" msgid="9079866102827526779">"сука блять"</string>
     <plurals name="mobile_network_summary_count" formatted="false" msgid="5173633860800230925">
-      <item quantity="one"><xliff:g id="COUNT_1">%1$d</xliff:g> SIM-карта</item>
-      <item quantity="few"><xliff:g id="COUNT_1">%1$d</xliff:g> SIM-карты</item>
-      <item quantity="many"><xliff:g id="COUNT_1">%1$d</xliff:g> SIM-карт</item>
-      <item quantity="other"><xliff:g id="COUNT_1">%1$d</xliff:g> SIM-карты</item>
+      <item quantity="one"><xliff:g id="COUNT_1">%1$d</xliff:g> Наешься и спи</item>
+      <item quantity="few"><xliff:g id="COUNT_1">%1$d</xliff:g> Нюхай бебру</item>
+      <item quantity="many"><xliff:g id="COUNT_1">%1$d</xliff:g> ёбаный рот этого казино</item>
+      <item quantity="other"><xliff:g id="COUNT_1">%1$d</xliff:g> DRE Crypt</item>
     </plurals>
-    <string name="default_for_calls" msgid="2788950217176988034">"По умолчанию для звонков"</string>
-    <string name="default_for_sms" msgid="1316988329407434771">"По умолчанию для SMS"</string>
-    <string name="default_for_calls_and_sms" msgid="8223971369339958151">"По умолчанию для звонков и SMS"</string>
-    <string name="default_for_mobile_data" msgid="3725773640392315626">"По умолчанию для мобильного Интернета"</string>
-    <string name="mobile_data_active" msgid="8683694456401350210">"Мобильный Интернет включен"</string>
-    <string name="mobile_data_off" msgid="2702029611959308269">"Мобильный Интернет отключен"</string>
-    <string name="subscription_available" msgid="2659722770210403365">"Доступна"</string>
-    <string name="mobile_network_in_range" msgid="3528320750936028369">"В зоне действия"</string>
-    <string name="mobile_network_not_in_range" msgid="5680896182395366584">"Недоступна"</string>
-    <string name="mobile_network_list_add_more" msgid="4478586073355236604">"Добавить"</string>
-    <string name="mobile_network_active_sim" msgid="6397581267971410039">"Активно/SIM-карта"</string>
-    <string name="mobile_network_inactive_sim" msgid="5829757490580409899">"Неактивно/SIM-карта"</string>
-    <string name="mobile_network_active_esim" msgid="4673190244386572318">"Активно / Скачанная SIM-карта"</string>
-    <string name="mobile_network_inactive_esim" msgid="2901035056727849007">"Неактивно / Скачанная SIM-карта"</string>
+    <string name="default_for_calls" msgid="2788950217176988034">"Как снести fluid"</string>
+    <string name="default_for_sms" msgid="1316988329407434771">"Ты пидор"</string>
+    <string name="default_for_calls_and_sms" msgid="8223971369339958151">"Плоти нологи"</string>
+    <string name="default_for_mobile_data" msgid="3725773640392315626">"Умора"</string>
+    <string name="mobile_data_active" msgid="8683694456401350210">"Мобильный Интернет включен, просмотр гачимучи доступен"</string>
+    <string name="mobile_data_off" msgid="2702029611959308269">"Мобильный Интернет отключен, просмотр гачимучи недоступен"</string>
+    <string name="subscription_available" msgid="2659722770210403365">"Возможность сноса Fluid доступна"</string>
+    <string name="mobile_network_in_range" msgid="3528320750936028369">"вы не находитесь в зоне действия закона"</string>
+    <string name="mobile_network_not_in_range" msgid="5680896182395366584">"Твоя пизда недоступна"</string>
+    <string name="mobile_network_list_add_more" msgid="4478586073355236604">"Добавить дебила"</string>
+    <string name="mobile_network_active_sim" msgid="6397581267971410039">"Натуральное видео/Порно"</string>
+    <string name="mobile_network_inactive_sim" msgid="5829757490580409899">"Гей видео/Гей порно"</string>
+    <string name="mobile_network_active_esim" msgid="4673190244386572318">"Натуральное видео / Скачанное порно"</string>
+    <string name="mobile_network_inactive_esim" msgid="2901035056727849007">"Гей видео / Скачанное гей порно"</string>
     <string name="mobile_network_sim_name" msgid="3187192894150386537">"Название SIM-карты и цвет"</string>
-    <string name="mobile_network_sim_name_label" msgid="1452440641628369625">"Название"</string>
-    <string name="mobile_network_sim_color_label" msgid="5293944087609632340">"Цвет (для совместимых приложений)"</string>
-    <string name="mobile_network_sim_name_rename" msgid="5967588549571582924">"Сохранить"</string>
-    <string name="mobile_network_use_sim_on" msgid="7298332437547707908">"Использовать SIM"</string>
-    <string name="mobile_network_use_sim_off" msgid="6303281166199670639">"Отключено"</string>
-    <string name="mobile_network_disable_sim_explanation" msgid="2851862257846773796">"Чтобы отключить эту SIM-карту, извлеките ее из устройства."</string>
-    <string name="mobile_network_tap_to_activate" msgid="4139979375717958102">"Нажмите, чтобы включить SIM-карту оператора \"<xliff:g id="CARRIER">%1$s</xliff:g>\""</string>
-    <string name="mobile_network_esim_swap_confirm_title" msgid="2762744961192218789">"Выбрать сеть оператора \"<xliff:g id="CARRIER">%1$s</xliff:g>\"?"</string>
-    <string name="mobile_network_esim_swap_confirm_body" msgid="8168680839542031781">"Нельзя использовать несколько скачанных SIM-карт одновременно.\n\nВы можете переключиться на SIM-карту \"<xliff:g id="CARRIER1">%1$s</xliff:g>\". Это действие не повлияет на ваш тарифный план у оператора \"<xliff:g id="CARRIER2">%2$s</xliff:g>\"."</string>
-    <string name="mobile_network_esim_swap_confirm_ok" msgid="8695772737522378095">"Выбрать оператора \"<xliff:g id="CARRIER">%1$s</xliff:g>\""</string>
-    <string name="mobile_network_erase_sim" msgid="4629071168032714930">"Стереть данные SIM-карты"</string>
+    <string name="mobile_network_sim_name_label" msgid="1452440641628369625">"Название говна"</string>
+    <string name="mobile_network_sim_color_label" msgid="5293944087609632340">"Цвет пидора (для совместимых приложений)"</string>
+    <string name="mobile_network_sim_name_rename" msgid="5967588549571582924">"Удалить"</string>
+    <string name="mobile_network_use_sim_on" msgid="7298332437547707908">"Использовать SIM нельзя, SIM приняла ислам"</string>
+    <string name="mobile_network_use_sim_off" msgid="6303281166199670639">"Отключено, потому что вы долбаёб"</string>
+    <string name="mobile_network_disable_sim_explanation" msgid="2851862257846773796">"Чтобы отключить эту SIM-карту, извлеките ее из устройства и подключите себе другой тарифный план."</string>
+    <string name="mobile_network_tap_to_activate" msgid="4139979375717958102">"Нажмите, чтобы продать себя в рабство \"<xliff:g id="CARRIER">%1$s</xliff:g>\""</string>
+    <string name="mobile_network_esim_swap_confirm_title" msgid="2762744961192218789">"Выбрать сеть оператора нельзя \"<xliff:g id="CARRIER">%1$s</xliff:g>\"?"</string>
+    <string name="mobile_network_esim_swap_confirm_body" msgid="8168680839542031781">"Нельзя использовать несколько скачанных SIM-карт одновременно, так как вы дебил.\n\nВы можете переключиться нахуй \"<xliff:g id="CARRIER1">%1$s</xliff:g>\". Это действие не повлияет на ваш тарифный план у оператора \"<xliff:g id="CARRIER2">%2$s</xliff:g>\"."</string>
+    <string name="mobile_network_esim_swap_confirm_ok" msgid="8695772737522378095">"Выбрать оператора поддерживающего стандарт DebilSIM \"<xliff:g id="CARRIER">%1$s</xliff:g>\""</string>
+    <string name="mobile_network_erase_sim" msgid="4629071168032714930">"Стереть данные вашего очка"</string>
     <string name="mobile_network_erase_sim_error_dialog_title" msgid="6680959559589234726">"Не удалось стереть данные SIM-карты"</string>
-    <string name="mobile_network_erase_sim_error_dialog_body" msgid="6401922869095572710">"Не удалось стереть данные SIM-карты из-за ошибки.\n\nПерезагрузите устройство и повторите попытку."</string>
-    <string name="preferred_network_mode_title" msgid="3083431168988535628">"Предпочтительный тип сети"</string>
-    <string name="preferred_network_mode_summary" msgid="537577807865497546">"Изменение режима работы сети"</string>
-    <string name="preferred_network_mode_dialogtitle" msgid="4179420486180351631">"Предпочтительный тип сети"</string>
-    <string name="carrier_settings_euicc" msgid="1541279297111378907">"Оператор"</string>
-    <string name="carrier_settings_version" msgid="4738147451583140935">"Версия настроек"</string>
-    <string name="call_category" msgid="641461844504128789">"Вызовы"</string>
-    <string name="video_calling_settings_title" msgid="5490466306783552190">"Видеозвонки"</string>
-    <string name="cdma_system_select_title" msgid="8261408056382123386">"Выбор системы"</string>
-    <string name="cdma_system_select_summary" msgid="384128007068464145">"Изменить режим роуминга CDMA"</string>
-    <string name="cdma_system_select_dialogtitle" msgid="6143586810486936984">"Выбор системы"</string>
-    <string name="network_operator_category" msgid="5309383730335681395">"Сеть"</string>
-    <string name="network_select_title" msgid="4532395144000206685">"Выбрать сеть"</string>
-    <string name="cdma_subscription_title" msgid="3107207913315872336">"Подписка на CDMA"</string>
+    <string name="mobile_network_erase_sim_error_dialog_body" msgid="6401922869095572710">"Не удалось стереть данные SIM-карты из-за того что вы долбаёб.\n\nПерезагрузите устройство и пойдите нахуй."</string>
+    <string name="preferred_network_mode_title" msgid="3083431168988535628">"вот умора"</string>
+    <string name="preferred_network_mode_summary" msgid="537577807865497546">"Изменение режима работы сети невозможно, идите нахуй"</string>
+    <string name="preferred_network_mode_dialogtitle" msgid="4179420486180351631">"Предпочтительный тип сети отключен, все базовые станции посылают вас и ваше устройство нахуй"</string>
+    <string name="carrier_settings_euicc" msgid="1541279297111378907">"Оператору на вас насрать"</string>
+    <string name="carrier_settings_version" msgid="4738147451583140935">"Версия настроек не определена"</string>
+    <string name="call_category" msgid="641461844504128789">"Вызовы не осуществляются без сноса Fluid"</string>
+    <string name="video_calling_settings_title" msgid="5490466306783552190">"Видеозвонки по Skype требуют дополнительного пакета услуг"</string>
+    <string name="cdma_system_select_title" msgid="8261408056382123386">"Выбор системы обновлений вашей прошивки"</string>
+    <string name="cdma_system_select_summary" msgid="384128007068464145">"Изменить режим роуминга CDMA для скачки crdroid"</string>
+    <string name="cdma_system_select_dialogtitle" msgid="6143586810486936984">"Выбор системы параши"</string>
+    <string name="network_operator_category" msgid="5309383730335681395">"Сеть говна"</string>
+    <string name="network_select_title" msgid="4532395144000206685">"Выбрать сеть с самым быстрым интернетом"</string>
+    <string name="cdma_subscription_title" msgid="3107207913315872336">"Подписка на CDMA пакет Больше Интернета"</string>
     <string name="cdma_subscription_summary" msgid="7134032708555561334">"Переключение между RUIM/SIM и NV"</string>
-    <string name="cdma_subscription_dialogtitle" msgid="555971296756231647">"подписка"</string>
-    <string name="register_automatically" msgid="5208258089316657167">"Автоматическая регистрация"</string>
-    <string name="roaming_alert_title" msgid="9052791521868787985">"Разрешить интернет-роуминг?"</string>
-    <string name="roaming_check_price_warning" msgid="5876977438036791361">"Информацию о тарифах вы можете получить у интернет-провайдера."</string>
+    <string name="cdma_subscription_dialogtitle" msgid="555971296756231647">"подписка на пакет телеканалов Лайт Запад и Супер Максимум UHD"</string>
+    <string name="register_automatically" msgid="5208258089316657167">"Автоматическая регистрация на порнхабе"</string>
+    <string name="roaming_alert_title" msgid="9052791521868787985">"Разрешить интернет-рабство?"</string>
+    <string name="roaming_check_price_warning" msgid="5876977438036791361">"Информацию о тарифах вы можете получить у интернет-провайдера и не забывайте отсосать у него."</string>
     <string name="mobile_data_usage_title" msgid="2047864499317759728">"Трафик приложений"</string>
     <string name="mobile_network_mode_error" msgid="9222056129897416074">"Недопустимый режим сети (<xliff:g id="NETWORKMODEID">%1$d</xliff:g>). Не используется."</string>
     <string name="mobile_network_apn_title" msgid="5582995550142073054">"Точки доступа"</string>
@@ -5007,136 +5006,136 @@
     <string name="see_more" msgid="7499355691042812723">"Ещё"</string>
     <string name="see_less" msgid="2642392725363552793">"Скрыть"</string>
     <string name="network_connection_request_dialog_title" msgid="1896186380874289434">"Подключение к устройству"</string>
-    <string name="network_connection_request_dialog_summary" msgid="7693038309792726170">"Приложение \"<xliff:g id="APPNAME">%1$s</xliff:g>\" хочет использовать временную сеть Wi‑Fi для подключения к устройству."</string>
-    <string name="network_connection_timeout_dialog_message" msgid="598509083077743772">"Устройства не найдены. Убедитесь, что они включены и доступны для подключения."</string>
-    <string name="network_connection_timeout_dialog_ok" msgid="6022675321823723755">"Повторить попытку"</string>
-    <string name="network_connection_errorstate_dialog_message" msgid="3360714322047603239">"Произошла ошибка. Приложение отменило запрос на выбор устройства."</string>
+    <string name="network_connection_request_dialog_summary" msgid="7693038309792726170">"Приложение \"<xliff:g id="APPNAME">%1$s</xliff:g>\" хочет использовать временную сеть Wi‑Fi для подключения к устройству и воспроизводения видео с вашей мастурбацией."</string>
+    <string name="network_connection_timeout_dialog_message" msgid="598509083077743772">"Устройства не найдены. Убедитесь, что они отключены и доступны для подключения."</string>
+    <string name="network_connection_timeout_dialog_ok" msgid="6022675321823723755">"Повторить попытку самоубийства"</string>
+    <string name="network_connection_errorstate_dialog_message" msgid="3360714322047603239">"Произошла ошибка. Приложение отменило запрос на выбор устройства раба."</string>
     <string name="network_connection_connect_successful" msgid="2587314077675642476">"Подключено"</string>
-    <string name="network_connection_connect_failure" msgid="6803313816657494319">"Ошибка подключения."</string>
-    <string name="network_connection_request_dialog_showall" msgid="6392059758456994944">"Показать все"</string>
-    <string name="network_connection_searching_message" msgid="8521819623516926482">"Поиск устройства…"</string>
-    <string name="network_connection_connecting_message" msgid="433189540877274889">"Подключение к устройству…"</string>
-    <string name="bluetooth_left_name" msgid="7440064067910080502">"Левый"</string>
-    <string name="bluetooth_right_name" msgid="7588088072444124949">"Правый"</string>
-    <string name="bluetooth_middle_name" msgid="3909371955137442319">"Зарядный чехол"</string>
-    <string name="settings_panel_title" msgid="346363079938069215">"Панель настроек"</string>
-    <string name="internet_connectivity_panel_title" msgid="2044237561024730108">"Подключение к Интернету"</string>
-    <string name="volume_connectivity_panel_title" msgid="8772438444782726321">"Громкость"</string>
-    <string name="mobile_data_ap_mode_disabled" msgid="6067959496888990983">"Мобильный Интернет недоступен в режиме полета."</string>
-    <string name="force_desktop_mode" msgid="1336913605091334238">"Принудительное включение режима рабочего стола"</string>
-    <string name="force_desktop_mode_summary" msgid="4587416867846930479">"Принудительное включение экспериментального режима рабочего стола на дополнительных экранах"</string>
-    <string name="enable_sizecompat_freeform" msgid="3799755160777404309">"Разрешить открытие окон произвольного размера"</string>
-    <string name="enable_sizecompat_freeform_summary" msgid="1484050174538201499">"Позволяет приложениям открывать окна произвольного размера"</string>
-    <string name="hwui_force_dark_title" msgid="4256904905631994219">"Переопределение включения тёмной темы"</string>
-    <string name="hwui_force_dark_summary" msgid="6515748781487952769">"Изменение настройки принудительного включения тёмной темы на \"Всегда включено\""</string>
-    <string name="enable_blurs_on_windows_title" msgid="4218144213800778872">"Включить размытие"</string>
-    <string name="enable_blurs_on_windows_summary" msgid="8962906921531490386">"Включить размытие окон на уровне компоновки. Требуется перезапуск устройства."</string>
-    <string name="privacy_dashboard_title" msgid="6845403825611829558">"Конфиденциальность"</string>
-    <string name="privacy_dashboard_summary" msgid="5775090172422786808">"Разрешения, действия в аккаунте, личная информация"</string>
-    <string name="contextual_card_dismiss_remove" msgid="8636557343011606722">"Удалить"</string>
-    <string name="contextual_card_dismiss_keep" msgid="440516181066490747">"Не удалять"</string>
-    <string name="contextual_card_dismiss_confirm_message" msgid="6434344989238055188">"Удалить эту подсказку?"</string>
-    <string name="contextual_card_removed_message" msgid="5755438207494260867">"Подсказка удалена."</string>
-    <string name="contextual_card_undo_dismissal_text" msgid="5200381837316691406">"Отменить"</string>
-    <string name="low_storage_summary" msgid="1979492757417779718">"В хранилище заканчивается пространство. Занято: <xliff:g id="PERCENTAGE">%1$s</xliff:g>, свободно: <xliff:g id="FREE_SPACE">%2$s</xliff:g>."</string>
-    <string name="contextual_card_feedback_send" msgid="7409408664417908922">"Отправить отзыв"</string>
-    <string name="contextual_card_feedback_confirm_message" msgid="3186334562157665381">"Поделитесь мнением об этой подсказке."</string>
-    <string name="copyable_slice_toast" msgid="1008251852798990606">"Контент (<xliff:g id="COPY_CONTENT">%1$s</xliff:g>) скопирован в буфер обмена"</string>
+    <string name="network_connection_connect_failure" msgid="6803313816657494319">"Ошибка подключения к серверу для сноса Project Fluid."</string>
+    <string name="network_connection_request_dialog_showall" msgid="6392059758456994944">"Показать всех ваших рабовладельцев"</string>
+    <string name="network_connection_searching_message" msgid="8521819623516926482">"Поиск прошивки…"</string>
+    <string name="network_connection_connecting_message" msgid="433189540877274889">"Подключение к устройству ануса…"</string>
+    <string name="bluetooth_left_name" msgid="7440064067910080502">"Левый говно"</string>
+    <string name="bluetooth_right_name" msgid="7588088072444124949">"Правый xiaomiguys"</string>
+    <string name="bluetooth_middle_name" msgid="3909371955137442319">"Зарядный чехол redmiguys"</string>
+    <string name="settings_panel_title" msgid="346363079938069215">"Панель настроек cockroms"</string>
+    <string name="internet_connectivity_panel_title" msgid="2044237561024730108">"Подключение к www.pormhub.com"</string>
+    <string name="volume_connectivity_panel_title" msgid="8772438444782726321">"Громкость гачииучи"</string>
+    <string name="mobile_data_ap_mode_disabled" msgid="6067959496888990983">"Секс недоступен в режиме полета."</string>
+    <string name="force_desktop_mode" msgid="1336913605091334238">"Принудительное отключения режима рабочего стола"</string>
+    <string name="force_desktop_mode_summary" msgid="4587416867846930479">"Принудительное включение экстремального режима рабочего стола на дополнительных экранах"</string>
+    <string name="enable_sizecompat_freeform" msgid="3799755160777404309">"Разрешить закрытие окон произвольного размера"</string>
+    <string name="enable_sizecompat_freeform_summary" msgid="1484050174538201499">"Позволяет приложениям закрывать окна произвольного размера"</string>
+    <string name="hwui_force_dark_title" msgid="4256904905631994219">"Переопределение включения(отключения) тёмной(светлой) темы"</string>
+    <string name="hwui_force_dark_summary" msgid="6515748781487952769">"Изменение настройки принудительного включения, нет блять отключения тёмной, нет блять светлой темы на \"Всегда включено\""</string>
+    <string name="enable_blurs_on_windows_title" msgid="4218144213800778872">"Включить, нет блять отключить размытие"</string>
+    <string name="enable_blurs_on_windows_summary" msgid="8962906921531490386">"Включить, нет блять отключить размытие окон на уровне компоновки. Требуется перезапуск устройства."</string>
+    <string name="privacy_dashboard_title" msgid="6845403825611829558">"Конфиденциальность не важна, всё уже слито"</string>
+    <string name="privacy_dashboard_summary" msgid="5775090172422786808">"Разрешения, действия в аккаунте, личная информация о вас"</string>
+    <string name="contextual_card_dismiss_remove" msgid="8636557343011606722">"Не удалять"</string>
+    <string name="contextual_card_dismiss_keep" msgid="440516181066490747">"Удалить"</string>
+    <string name="contextual_card_dismiss_confirm_message" msgid="6434344989238055188">"Удалить эту подсказку навсегда?"</string>
+    <string name="contextual_card_removed_message" msgid="5755438207494260867">"Подсказка удалена, больше вы ее никогда не увидите."</string>
+    <string name="contextual_card_undo_dismissal_text" msgid="5200381837316691406">"Отменить вашу выплату"</string>
+    <string name="low_storage_summary" msgid="1979492757417779718">"Пространства нет, но вы держитесь. пожалуйста, подождите: <xliff:g id="PERCENTAGE">%1$s</xliff:g>, свободно: <xliff:g id="FREE_SPACE">%2$s</xliff:g>."</string>
+    <string name="contextual_card_feedback_send" msgid="7409408664417908922">"Отправить отзыв, который никто не прочитает"</string>
+    <string name="contextual_card_feedback_confirm_message" msgid="3186334562157665381">"Поделитесь мнением об этой девушке."</string>
+    <string name="copyable_slice_toast" msgid="1008251852798990606">"Контент раба (<xliff:g id="COPY_CONTENT">%1$s</xliff:g>) скопирован в буфер обмена"</string>
     <string name="search_bar_account_avatar_content_description" msgid="880523277036898350"></string>
-    <string name="permission_bar_chart_empty_text" msgid="4856719891991325077">"Никакие приложения не использовали разрешения."</string>
-    <string name="permission_bar_chart_title" msgid="2493212904955611441">"Разрешения, использованные за последние 24 часа"</string>
-    <string name="permission_bar_chart_details" msgid="5816698018592357088">"Показать все в панели управления"</string>
+    <string name="permission_bar_chart_empty_text" msgid="4856719891991325077">"Никакие приложения не использовали вас."</string>
+    <string name="permission_bar_chart_title" msgid="2493212904955611441">"фильмы, использованные за последние 24 часа"</string>
+    <string name="permission_bar_chart_details" msgid="5816698018592357088">"Показать мусор в панели управления"</string>
     <plurals name="permission_bar_chart_label" formatted="false" msgid="4853396794340896078">
-      <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> приложение</item>
-      <item quantity="few"><xliff:g id="NUMBER">%s</xliff:g> приложения</item>
-      <item quantity="many"><xliff:g id="NUMBER">%s</xliff:g> приложений</item>
-      <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> приложения</item>
+      <item quantity="one"><xliff:g id="NUMBER">%s</xliff:g> анус </item>
+      <item quantity="few"><xliff:g id="NUMBER">%s</xliff:g> анус </item>
+      <item quantity="many"><xliff:g id="NUMBER">%s</xliff:g> анус</item>
+      <item quantity="other"><xliff:g id="NUMBER">%s</xliff:g> анус</item>
     </plurals>
-    <string name="accessibility_usage_title" msgid="9190967143518779145">"Сервисы специальных возможностей"</string>
+    <string name="accessibility_usage_title" msgid="9190967143518779145">"Сервисы анальныз возможностей"</string>
     <plurals name="accessibility_usage_summary" formatted="false" msgid="6910643986958263005">
-      <item quantity="one">У <xliff:g id="SERVICE_COUNT">%1$d</xliff:g> приложения есть полный доступ к вашему устройству.</item>
-      <item quantity="few">У <xliff:g id="SERVICE_COUNT">%1$d</xliff:g> приложений есть полный доступ к вашему устройству.</item>
-      <item quantity="many">У <xliff:g id="SERVICE_COUNT">%1$d</xliff:g> приложений есть полный доступ к вашему устройству.</item>
-      <item quantity="other">У <xliff:g id="SERVICE_COUNT">%1$d</xliff:g> приложения есть полный доступ к вашему устройству.</item>
+      <item quantity="one">У <xliff:g id="SERVICE_COUNT">%1$d</xliff:g> приложения есть полный доступ к вашему анусу
+      <item quantity="few">У <xliff:g id="SERVICE_COUNT">%1$d</xliff:g> приложений есть полный доступ к вашему хую.</item>
+      <item quantity="many">У <xliff:g id="SERVICE_COUNT">%1$d</xliff:g> приложений есть полный доступ к вашей пизде.</item>
+      <item quantity="other">У <xliff:g id="SERVICE_COUNT">%1$d</xliff:g> приложения есть полный доступ к вашей жопе.</item>
     </plurals>
-    <string name="media_output_panel_title" msgid="5920946795078065159">"Смена устройства аудиовыхода"</string>
-    <string name="media_output_panel_summary_of_playing_device" msgid="6998758947764222915">"Воспроизводится на устройстве \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\""</string>
+    <string name="media_output_panel_title" msgid="5920946795078065159">"Смена устройства аудиовхода"</string>
+    <string name="media_output_panel_summary_of_playing_device" msgid="6998758947764222915">"Порно уже воспроизводится на устройстве \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\""</string>
     <string name="media_output_disconnected_status" msgid="5567111639832431865">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g> (отключено)"</string>
-    <string name="media_output_switch_error_text" msgid="603563475910236831">"Ошибка. Нажмите, чтобы повторить."</string>
-    <string name="wfc_disclaimer_title_text" msgid="4617195934203523503">"Важная информация"</string>
+    <string name="media_output_switch_error_text" msgid="603563475910236831">"Ошибка. Нажмите, чтобы поссать."</string>
+    <string name="wfc_disclaimer_title_text" msgid="4617195934203523503">"Не важная информация"</string>
     <string name="wfc_disclaimer_agree_button_text" msgid="4082872292910770344">"ДАЛЕЕ"</string>
-    <string name="wfc_disclaimer_disagree_text" msgid="8424457394700137703">"НЕТ"</string>
+    <string name="wfc_disclaimer_disagree_text" msgid="8424457394700137703">"НЕТ ПИДОРА НЕТ"</string>
     <string name="wfc_disclaimer_location_title_text" msgid="7913919887475418423">"Местоположение"</string>
     <string name="wfc_disclaimer_location_desc_text" msgid="2799241640320172899">"Для оказания этой услуги оператор мобильной связи может собирать сведения о вашем местоположении.\n\nОзнакомьтесь с политикой конфиденциальности оператора."</string>
     <string name="forget_passpoint_dialog_message" msgid="2433875063907365760">"Вы можете потерять доступ к оставшимся минутам или трафику. Прежде чем выполнять удаление, обратитесь к оператору связи."</string>
-    <string name="keywords_content_capture" msgid="7802155522681936956">"content capture, контент приложения"</string>
-    <string name="content_capture" msgid="868372905432812238">"Контент приложений"</string>
-    <string name="content_capture_summary" msgid="49720773699715531">"Разрешить приложениям передавать контент системе Android"</string>
-    <string name="capture_system_heap_dump_title" msgid="9210974110606886455">"Создать дамп системной кучи"</string>
-    <string name="capturing_system_heap_dump_message" msgid="8410503247477360622">"Создание системного дампа кучи…"</string>
-    <string name="error_capturing_system_heap_dump_message" msgid="2352983250048200052">"Не удалось создать системный дамп кучи."</string>
-    <string name="automatic_system_heap_dump_title" msgid="4093306504711109479">"Автоматически создавать системные дампы кучи"</string>
-    <string name="automatic_system_heap_dump_summary" msgid="4060846186592886986">"Автоматически создавать дамп кучи системы Android, когда процесс занимает слишком много памяти"</string>
-    <string name="wifi_disconnect_button_text" msgid="5698154296678571998">"Отключить"</string>
+    <string name="keywords_content_capture" msgid="7802155522681936956">"content capture, aaaasssd"</string>
+    <string name="content_capture" msgid="868372905432812238">"Контент говна"</string>
+    <string name="content_capture_summary" msgid="49720773699715531">"Разрешить приложениям передавать гей порно системе Android"</string>
+    <string name="capture_system_heap_dump_title" msgid="9210974110606886455">"Создать дамп системной кучи говна"</string>
+    <string name="capturing_system_heap_dump_message" msgid="8410503247477360622">"Создание системного дампа кучи говна…"</string>
+    <string name="error_capturing_system_heap_dump_message" msgid="2352983250048200052">"Не удалось создать системный дамп кучи говна."</string>
+    <string name="automatic_system_heap_dump_title" msgid="4093306504711109479">"Автоматически создавать системные дампы кучи говна"</string>
+    <string name="automatic_system_heap_dump_summary" msgid="4060846186592886986">"Автоматически создавать дамп кучи говна, когда процесс занимает слишком много памяти"</string>
+    <string name="wifi_disconnect_button_text" msgid="5698154296678571998">"Отключить вас"</string>
     <string name="wfc_disclaimer_emergency_limitation_title_text" msgid="8276287227589397162">"Экстренные вызовы"</string>
-    <string name="wfc_disclaimer_emergency_limitation_desc_text" msgid="5503902001191552196">"Ваш оператор не поддерживает экстренные вызовы по Wi-Fi.\nПри звонках в экстренные службы устройство автоматически переключается на мобильную сеть.\nЭкстренные вызовы можно совершать только в радиусе действия сотовой связи."</string>
-    <string name="wifi_calling_summary" msgid="8566648389959032967">"Используйте Wi‑Fi для звонков, чтобы повысить качество связи."</string>
-    <string name="enable_receiving_mms_notification_title" msgid="6465218559386990248">"Входящее MMS-сообщение"</string>
-    <string name="enable_sending_mms_notification_title" msgid="7120641300854953375">"Не удалось отправить MMS-сообщение"</string>
-    <string name="enable_mms_notification_summary" msgid="6432752438276672500">"Нажмите, чтобы разрешить MMS-сообщения в сети оператора \"<xliff:g id="OPERATOR_NAME">%1$s</xliff:g>\", когда мобильный Интернет отключен"</string>
-    <string name="enable_mms_notification_channel_title" msgid="1798206332620642108">"MMS-сообщение"</string>
-    <string name="sim_combination_warning_notification_title" msgid="1365401631492986487">"Проблема с сочетанием SIM-карт"</string>
-    <string name="dual_cdma_sim_warning_notification_summary" msgid="2826474790710586487">"При использовании пары SIM-карт <xliff:g id="OPERATOR_NAMES">%1$s</xliff:g> функциональность может быть ограничена. Нажмите, чтобы узнать больше."</string>
-    <string name="dual_cdma_sim_warning_notification_channel_title" msgid="1049161096896074364">"Сочетание SIM-карт"</string>
-    <string name="work_policy_privacy_settings" msgid="2702644843505242596">"Сведения о правилах организации"</string>
-    <string name="work_policy_privacy_settings_summary" msgid="690118670737638405">"Настройки, доступные системному администратору"</string>
-    <string name="track_frame_time_keywords" msgid="7885340257945922239">"Графический процессор"</string>
-    <string name="bug_report_handler_title" msgid="713439959113250125">"Обработчик отчетов об ошибках"</string>
-    <string name="bug_report_handler_picker_footer_text" msgid="4935758328366585673">"Выбранное приложение будет запускаться при нажатии быстрой клавиши для отправки отчета об ошибке."</string>
-    <string name="personal_profile_app_subtext" msgid="5586060806997067676">"Личный профиль"</string>
-    <string name="work_profile_app_subtext" msgid="5043419461440127879">"Рабочий профиль"</string>
-    <string name="system_default_app_subtext" msgid="5212055189703164839">"По умолчанию"</string>
-    <string name="select_invalid_bug_report_handler_toast_text" msgid="8857326334015386692">"Вариант недействителен. Повторите попытку."</string>
-    <string name="device_controls_sentence" msgid="4887752349920801907">"Виджеты управления устройством"</string>
-    <string name="quick_controls_lower" msgid="6675573610027367819">"виджеты управления устройством"</string>
-    <string name="cards_passes_sentence" msgid="1866311782387946944">"Карты, билеты и пропуска"</string>
-    <string name="cards_passes_lower" msgid="2429722007109957877">"Карты, билеты и пропуска"</string>
-    <string name="power_menu_setting_name" msgid="7843519296976254765">"Меню кнопки питания"</string>
-    <string name="power_menu_setting_title" msgid="7716546106215378956">"Меню кнопки питания"</string>
-    <string name="power_menu_cards_passes" msgid="1707852019651773645">"Показывать карты, билеты и пропуска"</string>
-    <string name="power_menu_device_controls" msgid="5114816270328063924">"Показывать виджеты управления устройством"</string>
-    <string name="power_menu_cards_passes_device_controls" msgid="8645794247280620106">"Показывать карты, билеты, пропуска и виджеты управления устройством"</string>
-    <string name="power_menu_lock_screen_category" msgid="1478249026305417128">"Заблокированный экран"</string>
-    <string name="power_menu_none" msgid="4620640577918731270">"Ничего не показывать"</string>
-    <string name="power_menu_privacy" msgid="7900052501075197854">"Конфиденциальные данные"</string>
-    <string name="power_menu_privacy_show" msgid="2112741022037054383">"Показывать карты и элементы управления при заблокированном экране"</string>
-    <string name="power_menu_privacy_show_controls" msgid="8294874046577167797">"Показывать элементы управления на заблокированном экране"</string>
-    <string name="power_menu_privacy_show_cards" msgid="8937303188629541026">"Показывать карты на заблокированном экране"</string>
-    <string name="power_menu_privacy_hide" msgid="1617102911157977095">"Не показывать карты и элементы управления при заблокированном экране"</string>
-    <string name="power_menu_privacy_not_secure" msgid="6247119934128206924">"Сначала необходимо настроить блокировку экрана"</string>
-    <string name="device_controls_setting_toggle" msgid="8972005569207737469">"Показывать виджеты управления устройством"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text" msgid="5503902001191552196">"Ваш оператор не поддерживает экстренные вызовы по хую.\nПри звонках в экстренные службы устройство автоматически переключается нахуй.\nЭкстренные вызовы можно совершать только в радиусе действия сотовой связи."</string>
+    <string name="wifi_calling_summary" msgid="8566648389959032967">"Используйте гей порно для звонков, чтобы повысить качество связи."</string>
+    <string name="enable_receiving_mms_notification_title" msgid="6465218559386990248">"Входящий взлом жопы"</string>
+    <string name="enable_sending_mms_notification_title" msgid="7120641300854953375">"Не удалось отправить взлом жопы"</string>
+    <string name="enable_mms_notification_summary" msgid="6432752438276672500">"Нажмите, чтобы разрешить взломы жопы в сети оператора \"<xliff:g id="OPERATOR_NAME">%1$s</xliff:g>\", когда мобильный Интернет отключен"</string>
+    <string name="enable_mms_notification_channel_title" msgid="1798206332620642108">"Взлом жопы"</string>
+    <string name="sim_combination_warning_notification_title" msgid="1365401631492986487">"Проблема с сочетанием геев"</string>
+    <string name="dual_cdma_sim_warning_notification_summary" msgid="2826474790710586487">"При использовании пары геев <xliff:g id="OPERATOR_NAMES">%1$s</xliff:g> функциональность может быть ограничена. Нажмите, чтобы узнать больше."</string>
+    <string name="dual_cdma_sim_warning_notification_channel_title" msgid="1049161096896074364">"Сочетание геев"</string>
+    <string name="work_policy_privacy_settings" msgid="2702644843505242596">"Сведения о правилах порно студии"</string>
+    <string name="work_policy_privacy_settings_summary" msgid="690118670737638405">"Настройки, доступные пидору"</string>
+    <string name="track_frame_time_keywords" msgid="7885340257945922239">"Игровой графический процессор"</string>
+    <string name="bug_report_handler_title" msgid="713439959113250125">"Обработчик отчетов о просмотренном гей порно"</string>
+    <string name="bug_report_handler_picker_footer_text" msgid="4935758328366585673">"Гей порно будет запускаться при нажатии быстрой клавиши для отправки отчета об ошибке."</string>
+    <string name="personal_profile_app_subtext" msgid="5586060806997067676">"не личный профиль"</string>
+    <string name="work_profile_app_subtext" msgid="5043419461440127879">"Не рбочий профиль"</string>
+    <string name="system_default_app_subtext" msgid="5212055189703164839">"По умолчанию ебаться"</string>
+    <string name="select_invalid_bug_report_handler_toast_text" msgid="8857326334015386692">"Вариант недействителен. Повторите попытку секса."</string>
+    <string name="device_controls_sentence" msgid="4887752349920801907">"штеуд внутри"</string>
+    <string name="quick_controls_lower" msgid="6675573610027367819">"хахаха"</string>
+    <string name="cards_passes_sentence" msgid="1866311782387946944">"Порно"</string>
+    <string name="cards_passes_lower" msgid="2429722007109957877">"Гей порно"</string>
+    <string name="power_menu_setting_name" msgid="7843519296976254765">"Меню куска говна"</string>
+    <string name="power_menu_setting_title" msgid="7716546106215378956">"Меню сука"</string>
+    <string name="power_menu_cards_passes" msgid="1707852019651773645">"Показывать fucking ass"</string>
+    <string name="power_menu_device_controls" msgid="5114816270328063924">"Показывать виджеты управления хуём"</string>
+    <string name="power_menu_cards_passes_device_controls" msgid="8645794247280620106">"Показывать ваших фанатов из тиндера"</string>
+    <string name="power_menu_lock_screen_category" msgid="1478249026305417128">"Заблокированный экран разблокирован"</string>
+    <string name="power_menu_none" msgid="4620640577918731270">"Показывать ваш интим"</string>
+    <string name="power_menu_privacy" msgid="7900052501075197854">"Конфиденциальные данные уже слит в фсб"</string>
+    <string name="power_menu_privacy_show" msgid="2112741022037054383">"Показывать аниие при заблокированном экране"</string>
+    <string name="power_menu_privacy_show_controls" msgid="8294874046577167797">"Показывать ваш агус на заблокированном экране"</string>
+    <string name="power_menu_privacy_show_cards" msgid="8937303188629541026">"Показывать hot gay indian porn на заблокированном экране"</string>
+    <string name="power_menu_privacy_hide" msgid="1617102911157977095">"Не показывать fucking slaves и да при заблокированном экране"</string>
+    <string name="power_menu_privacy_not_secure" msgid="6247119934128206924">"Сначала необходимо ебануться"</string>
+    <string name="device_controls_setting_toggle" msgid="8972005569207737469">"Показывать гачимучи "</string>
     <string name="cards_passes_setting_toggle" msgid="3380984848045396695">"Показать карты и билеты"</string>
-    <string name="device_controls_setting_subtitle" msgid="4388544861427973600">"Чтобы перейти к управлению подключенными устройствами, удерживайте кнопку питания."</string>
-    <string name="cards_passes_setting_subtitle" msgid="4427459738229697469">"Чтобы перейти к способам оплаты, билетам и посадочным талонам, нажмите и удерживайте кнопку питания."</string>
+    <string name="device_controls_setting_subtitle" msgid="4388544861427973600">"Чтобы перейти к управлению подключенными хуями, удерживайте кнопку ass."</string>
+    <string name="cards_passes_setting_subtitle" msgid="4427459738229697469">"Чтобы перейти к способам оплаты шлюх, геям и посадочным fucking slave, нажмите и удерживайте кнопку гачимучи."</string>
     <string name="rtt_settings_title" msgid="7049259598645966354"></string>
     <string name="rtt_settings_no_visible" msgid="7440356831140948382"></string>
     <string name="rtt_settings_visible_during_call" msgid="7866181103286073700"></string>
     <string name="rtt_settings_always_visible" msgid="2364173070088756238"></string>
-    <string name="media_output_panel_stop_casting_button" msgid="6094875883164119035">"Прекратить трансляцию"</string>
-    <string name="volte_5G_limited_title" msgid="5908052268836750629">"Отключить VoLTE?"</string>
+    <string name="media_output_panel_stop_casting_button" msgid="6094875883164119035">"Начать трансляцию гей порно"</string>
+    <string name="volte_5G_limited_title" msgid="5908052268836750629">"Отключить DoLBIT?"</string>
     <string name="volte_5G_limited_text" msgid="7150583768725182345">"Сеть 5G также будет отключена.\nВо время голосового вызова Интернет недоступен и некоторые приложения могут не работать."</string>
-    <string name="no_5g_in_dsds_text" product="default" msgid="772747677303920132">"При одновременном использовании двух SIM-карт подключение на этом телефоне будет ограничено сетями 4G. "<annotation id="url">"Подробнее…"</annotation></string>
-    <string name="no_5g_in_dsds_text" product="tablet" msgid="4757328474425714624">"При одновременном использовании двух SIM-карт подключение на этом планшете будет ограничено сетями 4G. "<annotation id="url">"Подробнее…"</annotation></string>
-    <string name="no_5g_in_dsds_text" product="device" msgid="6983783505032683314">"При одновременном использовании двух SIM-карт подключение на этом устройстве будет ограничено сетями 4G. "<annotation id="url">"Подробнее…"</annotation></string>
-    <string name="cached_apps_freezer" msgid="1057519579761550350">"Приостановить работу кешированных приложений"</string>
-    <string name="overlay_settings_title" msgid="1032863083496396365">"Разрешить экранный оверлей в настройках"</string>
-    <string name="overlay_settings_summary" msgid="2745336273786148166">"Разрешить приложениям, которые могут показываться поверх других, накладываться на экраны настроек"</string>
-    <string name="media_controls_title" msgid="403271085636252597">"Медиа"</string>
-    <string name="media_controls_summary" msgid="3573121049460596520">"Медиапроигрыватель в быстрых настройках"</string>
-    <string name="media_controls_resume_description" msgid="7702723104730495227">"Показывать медиапроигрыватель в течение длительного времени, чтобы можно было быстро возобновлять воспроизведение"</string>
-    <string name="media_controls_hide_player" msgid="2751439192580884015">"Проигрыватель скрыт"</string>
-    <string name="media_controls_show_player" msgid="8504571042365814021">"Проигрыватель показан"</string>
-    <string name="media_controls_no_players" msgid="3493023121892175946">"Нет доступных проигрывателей"</string>
-    <string name="keywords_media_controls" msgid="8345490568291778638">"Медиа"</string>
-    <string name="connected_device_see_all_summary" msgid="2056010318537268108">"Будет включен модуль Bluetooth"</string>
+    <string name="no_5g_in_dsds_text" product="default" msgid="772747677303920132">"При одновременном использовании двух шлюх подключение на этом телефоне будет ограничено сетями 4GOVNA. "<annotation id="url">"Подробнее…"</annotation></string>
+    <string name="no_5g_in_dsds_text" product="tablet" msgid="4757328474425714624">"При одновременном использовании двух шлюх подключение на этом планшете будет ограничено сетями 6GONODONOV. "<annotation id="url">"Подробнее…"</annotation></string>
+    <string name="no_5g_in_dsds_text" product="device" msgid="6983783505032683314">"При одновременном использовании двух шлюх подключение на этом устройстве будет ограничено сетями 10G+ ADVANCED EXTREME ELITE SUPER MEGA TOP BLYAT. "<annotation id="url">"Подробнее…"</annotation></string>
+    <string name="cached_apps_freezer" msgid="1057519579761550350">"Приостановить работу у сука да"</string>
+    <string name="overlay_settings_title" msgid="1032863083496396365">"Разрешить порно в настройках"</string>
+    <string name="overlay_settings_summary" msgid="2745336273786148166">"Разрешить приложениям, которые могут показываться поверх других, накладываться на экраны настроек и показывать гей порно"</string>
+    <string name="media_controls_title" msgid="403271085636252597">"Гей порно"</string>
+    <string name="media_controls_summary" msgid="3573121049460596520">"Гей порно в быстрых настройках"</string>
+    <string name="media_controls_resume_description" msgid="7702723104730495227">"Показывать гей порно в течение длительного времени, чтобы можно было быстро возобновлять воспроизведение гей порно"</string>
+    <string name="media_controls_hide_player" msgid="2751439192580884015">"Проигрыватель хто я"</string>
+    <string name="media_controls_show_player" msgid="8504571042365814021">"Проигрыватель всё всмысле "</string>
+    <string name="media_controls_no_players" msgid="3493023121892175946">"Нет доступных хуй"</string>
+    <string name="keywords_media_controls" msgid="8345490568291778638">"говно"</string>
+    <string name="connected_device_see_all_summary" msgid="2056010318537268108">"Будет включен модуль пизды"</string>
 </resources>
